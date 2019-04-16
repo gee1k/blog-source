@@ -640,33 +640,33 @@ valine:
 # Gitment
 # Introduction: https://github.com/imsun/gitment
 gitment:
-  enable: true
+  enable: false
   mint: true # RECOMMEND, A mint on Gitment, to support count, language and proxy_gateway
   count: true # Show comments count in post meta area
   lazy: false # Comments lazy loading with a button
   cleanly: true # Hide 'Powered by ...' on footer, and more
   language: # Force language, or auto switch by theme
-  github_user: gee1k
-  github_repo: blog-source
-  client_id: af0675908d29e5657e8b
-  client_secret: 3badc8213b0517c3ce0cf70cba9e65ceab9b4210
+  github_user: gee1k # MUST HAVE, Your Github Username
+  github_repo: blog-source # MUST HAVE, The name of the repo you use to store Gitment comments
+  client_id: af0675908d29e5657e8b # MUST HAVE, Github client id for the Gitment
+  client_secret: 3badc8213b0517c3ce0cf70cba9e65ceab9b4210 # EITHER this or proxy_gateway, Github access secret token for the Gitment
   proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
   redirect_protocol: # Protocol of redirect_uri with force_redirect_protocol when mint enabled
 
 # Gitalk
 # Demo: https://gitalk.github.io
 gitalk:
-  enable: false
-  github_id: # Github repo owner
-  repo: # Repository name to store issues
-  client_id: # Github Application Client ID
-  client_secret: # Github Application Client Secret
-  admin_user: # GitHub repo owner and collaborators, only these guys can initialize github issues
+  enable: true
+  github_id: gee1k
+  repo: blog-source
+  client_id: af0675908d29e5657e8b
+  client_secret: 3badc8213b0517c3ce0cf70cba9e65ceab9b4210
+  admin_user: gee1k
   distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
   # Available values: en, es-ES, fr, ru, zh-CN, zh-TW
-  language:
+  language: zh-CN
 
 # ---------------------------------------------------------------
 # Content Sharing Services
