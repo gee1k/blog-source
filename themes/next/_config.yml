@@ -591,7 +591,7 @@ calendar:
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: blog-svend-cc
   count: true
   lazyload: true
@@ -600,15 +600,15 @@ disqus:
 # Alternative Disqus - Render comment component using Disqus API
 # Demo: https://suka.js.org/DisqusJS/
 disqusjs:
-  enable: false
+  enable: true
   # API Endpoint of Disqus API (https://disqus.com/api/)
   # leave api empty if you are able to connect to Disqus API
   # otherwise you need a reverse proxy for Disqus API
   # For example:
   # api: https://disqus.skk.moe/disqus/
-  api:
-  apikey: # register new application from https://disqus.com/api/applications/
-  shortname: # See: https://disqus.com/admin/settings/general/
+  api: https://disqus.skk.moe/disqus/
+  apikey: Cjf5nY1KQZi4gtns7Ct7yupzgiPgnWY8srirD0oGyWWu4Z2fb4cBNs6NrmFhz3Mj # register new application from https://disqus.com/api/applications/
+  shortname: blog-svend-cc # See: https://disqus.com/admin/settings/general/
 
 # Changyan
 changyan:
