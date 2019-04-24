@@ -591,10 +591,10 @@ calendar:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: blog-svend-cc
   count: true
-  lazyload: false
+  lazyload: true
 
 # DisqusJS
 # Alternative Disqus - Render comment component using Disqus API
@@ -656,12 +656,12 @@ gitment:
 # Gitalk
 # Demo: https://gitalk.github.io
 gitalk:
-  enable: true
-  github_id: gee1k
-  repo: blog-source
-  client_id: a9aa650da65bc9a05403
-  client_secret: 9c1d788e7d1e2fc5229bdc5bfb44b6ca35262625
-  admin_user: gee1k
+  enable: false
+  github_id:
+  repo:
+  client_id:
+  client_secret:
+  admin_user:
   distraction_free_mode: true
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
