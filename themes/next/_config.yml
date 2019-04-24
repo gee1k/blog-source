@@ -107,7 +107,7 @@ github_banner:
 # ---------------------------------------------------------------
 
 # Disable Baidu transformation on mobile devices.
-disable_baidu_transformation: false
+disable_baidu_transformation: true
 
 # Set a canonical link tag in your hexo, you could use it for your SEO of blog.
 # See: https://support.google.com/webmasters/answer/139066
@@ -119,10 +119,10 @@ seo: true
 
 # If true, will add site-subtitle to index page, added in main hexo config.
 # subtitle: Subtitle
-index_with_subtitle: false
+index_with_subtitle: true
 
 # Automatically add external URL with BASE64 encrypt & decrypt.
-exturl: false
+exturl: true
 
 # Google Webmaster tools verification.
 # See: https://www.google.com/webmasters
@@ -405,7 +405,7 @@ custom_logo:
 # Code Highlight theme
 # Available values: normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 # Enable "cheers" for archive page.
 cheers: true
@@ -661,7 +661,7 @@ gitalk:
   repo: blog-source
   client_id: a9aa650da65bc9a05403
   client_secret: 9c1d788e7d1e2fc5229bdc5bfb44b6ca35262625
-  admin_user: ["gee1k"]
+  admin_user: gee1k
   distraction_free_mode: true
   # Gitalk's display language depends on user's browser or system environment
   # If you want everyone visiting your site to see a uniform language, you can set a force language value
@@ -676,8 +676,8 @@ gitalk:
 # Baidu Share
 # Available values: button | slide
 # Warning: Baidu Share does not support https.
-#baidushare:
-##  type: button
+baidushare:
+  type: button
 
 # AddThis Share, See: https://www.addthis.com
 # Go to https://www.addthis.com/dashboard to customize your tools.
@@ -845,7 +845,7 @@ algolia_search:
 # Local search
 # Dependencies: https://github.com/theme-next/hexo-generator-searchdb
 local_search:
-  enable: false
+  enable: true
   # If auto, trigger search by changing input.
   # If manual, trigger search by pressing enter key or search button.
   trigger: auto
@@ -1111,16 +1111,16 @@ vendors:
   # Internal version: 3.3.0
   # See: https://github.com/ethantw/Han
   # Example:
-  # han: //cdn.jsdelivr.net/npm/han-css@3/dist/han.min.css
+  han: //cdn.jsdelivr.net/npm/han-css@3/dist/han.min.css
   # han: //cdnjs.cloudflare.com/ajax/libs/Han/3.3.0/han.min.css
-  han:
+  # han:
 
   # Internal version: 4.0.7
   # See: https://github.com/vinta/pangu.js
   # Example:
-  # pangu: //cdn.jsdelivr.net/npm/pangu@4/dist/browser/pangu.min.js
+  pangu: //cdn.jsdelivr.net/npm/pangu@4/dist/browser/pangu.min.js
   # pangu: //cdnjs.cloudflare.com/ajax/libs/pangu/4.0.7/pangu.min.js
-  pangu:
+  # pangu:
 
   # Internal version: 1.0.0
   # See: https://github.com/GoogleChromeLabs/quicklink
@@ -1139,8 +1139,8 @@ vendors:
   # Internal version: 1.0.0
   # See: https://github.com/theme-next/theme-next-bookmark
   # Example:
-  # bookmark: //cdn.jsdelivr.net/gh/theme-next/theme-next-bookmark@1/bookmark.min.js
-  bookmark:
+  bookmark: //cdn.jsdelivr.net/gh/theme-next/theme-next-bookmark@1/bookmark.min.js
+  # bookmark:
 
   # Internal version: 1.1
   # See: https://github.com/theme-next/theme-next-reading-progress
