@@ -606,7 +606,7 @@ disqusjs:
   # otherwise you need a reverse proxy for Disqus API
   # For example:
   # api: https://disqus.skk.moe/disqus/
-  api:
+  api: https://disqus.skk.moe/disqus/
   apikey: Cjf5nY1KQZi4gtns7Ct7yupzgiPgnWY8srirD0oGyWWu4Z2fb4cBNs6NrmFhz3Mj
   shortname: blog-svend-cc
 
