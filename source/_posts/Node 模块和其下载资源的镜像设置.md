@@ -4,6 +4,7 @@ tags:
   - Node
   - Npm
 categories: "Notes"
+date: 2018/10/01
 ---
 
 以前安装 `electron` 时总是失败，然后就在`淘宝镜像`上下载好相应版本的文件放到用户目录来解决问题。

@@ -3,6 +3,7 @@ title: Homebrew 安装及更新软件
 tags:
   - Mac
 categories: "Notes"
+date: 2019/04/18
 ---
 
 ## brew

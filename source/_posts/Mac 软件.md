@@ -3,6 +3,7 @@ title: Mac 软件
 tags:
   - Mac
 categories: "Notes"
+date: 2018/12/01
 ---
 
 # 个人使用软件

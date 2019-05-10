@@ -4,6 +4,7 @@ tags:
   - Web
   - Vue
 categories: "Notes"
+date: 2019/03/20
 ---
 
 ## 首先创建一个全局变量文件 `global.scss`

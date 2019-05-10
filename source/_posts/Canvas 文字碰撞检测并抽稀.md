@@ -3,7 +3,8 @@ title: Canvas 文字碰撞检测并抽稀
 tags:
   - Canvas
   - Web
-categories: "Notes"
+categories: "Notes" 
+date: 2019/05/10
 ---
 
 #### 效果

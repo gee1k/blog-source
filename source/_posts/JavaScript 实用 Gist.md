@@ -4,6 +4,7 @@ tags:
   - Javascript
   - Web
 categories: "Notes"
+date: 2019/04/15
 ---
 
 > 一些 JavaScript 中使用的方法等... 持续更新
