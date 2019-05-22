@@ -66,7 +66,7 @@ comment:
   # Name of the comment plugin
   type: gitalk
   owner: gee1k
-  repo: blog-source
+  repo: blog-comment
   client_id: a9aa650da65bc9a05403
   client_secret: 9c1d788e7d1e2fc5229bdc5bfb44b6ca35262625
   admin: ["gee1k"]
