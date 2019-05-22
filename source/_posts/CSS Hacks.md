@@ -5,9 +5,23 @@ tags:
   - Web
 categories: "Notes"
 date: 2019/04/16
+thumbnail: http://s2.svend.cc/thumb/static_assets.svg
+toc: true
+widgets:
+  - type: toc
+    position: left
+  - type: recent_posts
+    position: left
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: true
 ---
 
 > CSS Hacks, 持续补充
+
+<!-- more -->
 
 ### 解决 div 高度崩塌
 

@@ -5,6 +5,18 @@ tags:
   - Npm
 categories: "Notes"
 date: 2018/10/01
+thumbnail: http://s2.svend.cc/thumb/connected_world.svg
+toc: true
+widgets:
+  - type: toc
+    position: left
+  - type: recent_posts
+    position: left
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: true
 ---
 
 以前安装 `electron` 时总是失败，然后就在`淘宝镜像`上下载好相应版本的文件放到用户目录来解决问题。

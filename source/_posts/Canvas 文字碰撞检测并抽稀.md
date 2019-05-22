@@ -3,28 +3,43 @@ title: Canvas 文字碰撞检测并抽稀
 tags:
   - Canvas
   - Web
-categories: "Notes" 
+categories: "Notes"
 date: 2019/05/10
+thumbnail: http://s2.svend.cc/thumb/map.svg
+toc: true
+widgets:
+  - type: toc
+    position: left
+  - type: recent_posts
+    position: left
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: true
 ---
-
-#### 效果
-
-{% fi https://s2.svend.cc/post/text-collision/collision.gif, text-collision, 文字抽稀绘制 %}
 
 #### 需求背景
 
 一般在做地图相关的需求是才会用到文字抽稀，我也是在为公司的地图引擎实现一个功能时才实现了该方法，在这里将其简化了，就在普通的 Canvas 上进行操作，并没有引入地图概念
 
+<!-- more -->
+
+#### 效果
+
+![text](https://s2.svend.cc/post/text-collision/collision.gif)
+
 #### 碰撞检测
 
 ##### 计算文字在 canvas 中所占据的范围
-``` js
+
+```js
 // 计算文字所需的宽度
 var p = {
   x: 10,
   y: 10,
-  name: '测试文字'
-}
+  name: "测试文字"
+};
 var measure = ctx.measureText(p.name);
 // 求出文字在 canvas 画板中占据的最大 y 坐标
 var maxX = measure.width + p.x;
@@ -44,7 +59,7 @@ var bounds = new Bounds(min, max);
 
 Bounds 范围对象
 
-``` js
+```js
 /**
  * 定义范围对象
  */
@@ -58,11 +73,11 @@ function Bounds(min, max) {
  */
 Bounds.prototype.intersects = function(bounds) {
   var min = this.min,
-      max = this.max,
-      min2 = bounds.min,
-      max2 = bounds.max,
-      xIntersects = max2.x >= min.x && min2.x <= max.x,
-      yIntersects = max2.y >= min.y && min2.y <= max.y;
+    max = this.max,
+    min2 = bounds.min,
+    max2 = bounds.max,
+    xIntersects = max2.x >= min.x && min2.x <= max.x,
+    yIntersects = max2.y >= min.y && min2.y <= max.y;
 
   return xIntersects && yIntersects;
 };
@@ -89,7 +104,6 @@ ctx.fillText(p.name, p.x, p.y);
 ```
 
 #### 示例、代码地址
-
 
 示例地址：[示例](https://svend.cc/demo/canvas/text-collision)
 具体可查看完整代码： [Github 地址](https://github.com/gee1k/demo/blob/master/canvas/text-collision.html)

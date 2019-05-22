@@ -5,6 +5,18 @@ tags:
   - Web
 categories: "Notes"
 date: 2019/04/15
+thumbnail: http://s2.svend.cc/thumb/JavaScript_Frameworks.svg
+toc: true
+widgets:
+  - type: toc
+    position: left
+  - type: recent_posts
+    position: left
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: true
 ---
 
 > 一些 JavaScript 中使用的方法等... 持续更新

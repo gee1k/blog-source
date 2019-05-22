@@ -4,9 +4,23 @@ tags:
   - Mac
 categories: "Notes"
 date: 2018/12/01
+thumbnail: http://s2.svend.cc/thumb/startup_life.svg
+toc: true
+widgets:
+  - type: toc
+    position: left
+  - type: recent_posts
+    position: left
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: true
 ---
 
 # 个人使用软件
+
+<!-- more -->
 
 - HomeBrew - `软件包管理工具，类似 Ubuntu 下的 apt，CentOS下的 Yum`
 - CotEditor - `文本编辑器`

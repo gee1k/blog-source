@@ -4,9 +4,23 @@ tags:
   - Mac
 categories: "Notes"
 date: 2019/04/18
+thumbnail: http://s2.svend.cc/thumb/server_down.svg
+toc: true
+widgets:
+  - type: toc
+    position: left
+  - type: recent_posts
+    position: left
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: true
 ---
 
 ## brew
+
+<!-- more -->
 
 - brew install 安装
 

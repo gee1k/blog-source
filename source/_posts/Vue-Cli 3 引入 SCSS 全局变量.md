@@ -5,9 +5,23 @@ tags:
   - Vue
 categories: "Notes"
 date: 2019/03/20
+thumbnail: http://s2.svend.cc/thumb/coding.svg
+toc: true
+widgets:
+  - type: toc
+    position: left
+  - type: recent_posts
+    position: left
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: true
 ---
 
 ## 首先创建一个全局变量文件 `global.scss`
+
+<!-- more -->
 
 ```scss
 $theme-color: #efefef;
