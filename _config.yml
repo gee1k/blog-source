@@ -4,9 +4,9 @@
 
 # Site
 title: Svend's Blog
-subtitle:
-description:
-keywords:
+subtitle: 金守旺的博客
+description: 一个前端、后端等乱七八糟都搞过一点的程序员
+keywords: 技术,代码,JS,Javascript,Typescript,ts,HTML,HTML5,H5,CSS,CSS3,ES6,ESlint,Java,spring,node,npm,yarn,canvas,brew
 author: Svend Jin
 language: zh-CN
 timezone:
