@@ -198,12 +198,12 @@ plugins:
   # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Google-Analytics
   google-analytics:
     # Google Analytics tracking id
-    tracking_id:
+    tracking_id: UA-140677757-1
   # Baidu Analytics plugin settings
   # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Baidu-Analytics
   baidu-analytics:
     # Baidu Analytics tracking id
-    tracking_id:
+    tracking_id: e7b3eae25f68c95790623c84373be656
   # Hotjar user feedback plugin
   # https://ppoffice.github.io/hexo-theme-icarus/Plugins/General/site-analytics-plugin/#Hotjar
   hotjar:
@@ -215,7 +215,7 @@ plugins:
   clipboard: true
   # BuSuanZi site/page view counter
   # https://busuanzi.ibruce.info
-  busuanzi: true
+  busuanzi: false
 # CDN provider settings
 # https://ppoffice.github.io/hexo-theme-icarus/Configuration/Theme/speed-up-your-site-with-custom-cdn/
 providers:
