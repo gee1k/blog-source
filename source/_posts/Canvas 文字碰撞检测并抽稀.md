@@ -3,7 +3,7 @@ title: Canvas 文字碰撞检测并抽稀
 tags:
   - Canvas
   - Web
-categories: "Notes"
+categories: Notes
 date: 2019/05/10
 thumbnail: //s2.svend.cc/thumb/map.svg
 toc: true
@@ -12,6 +12,7 @@ widgets:
     position: left
   - type: recent_posts
     position: left
+abbrlink: 3ed0c75a
 ---
 
 #### 需求背景

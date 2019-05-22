@@ -3,7 +3,7 @@ title: Node 模块和其下载资源的镜像设置
 tags:
   - Node
   - Npm
-categories: "Notes"
+categories: Notes
 date: 2018/10/01
 thumbnail: //s2.svend.cc/thumb/connected_world.svg
 toc: true
@@ -12,6 +12,7 @@ widgets:
     position: left
   - type: recent_posts
     position: left
+abbrlink: 2ad1032
 ---
 
 以前安装 `electron` 时总是失败，然后就在`淘宝镜像`上下载好相应版本的文件放到用户目录来解决问题。

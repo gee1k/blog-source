@@ -2,7 +2,7 @@
 title: Homebrew 安装及更新软件
 tags:
   - Mac
-categories: "Notes"
+categories: Notes
 date: 2019/04/18
 thumbnail: //s2.svend.cc/thumb/server_down.svg
 toc: true
@@ -11,6 +11,7 @@ widgets:
     position: left
   - type: recent_posts
     position: left
+abbrlink: 2000470f
 ---
 
 ## brew

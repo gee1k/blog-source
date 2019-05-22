@@ -3,7 +3,7 @@ title: Vue-Cli 3 引入 SCSS 全局变量
 tags:
   - Web
   - Vue
-categories: "Notes"
+categories: Notes
 date: 2019/03/20
 thumbnail: //s2.svend.cc/thumb/coding.svg
 toc: true
@@ -12,6 +12,7 @@ widgets:
     position: left
   - type: recent_posts
     position: left
+abbrlink: 79a6ac4c
 ---
 
 ## 首先创建一个全局变量文件 `global.scss`

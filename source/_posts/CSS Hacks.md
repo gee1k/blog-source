@@ -3,7 +3,7 @@ title: CSS Hacks
 tags:
   - CSS
   - Web
-categories: "Notes"
+categories: Notes
 date: 2019/04/16
 thumbnail: //s2.svend.cc/thumb/static_assets.svg
 toc: true
@@ -12,6 +12,7 @@ widgets:
     position: left
   - type: recent_posts
     position: left
+abbrlink: 21a34d28
 ---
 
 > CSS Hacks, 持续补充

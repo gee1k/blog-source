@@ -3,7 +3,7 @@ title: JavaScript 实用 Gist
 tags:
   - Javascript
   - Web
-categories: "Notes"
+categories: Notes
 date: 2019/04/15
 thumbnail: //s2.svend.cc/thumb/JavaScript_Frameworks.svg
 toc: true
@@ -12,6 +12,7 @@ widgets:
     position: left
   - type: recent_posts
     position: left
+abbrlink: 13416c90
 ---
 
 > 一些 JavaScript 中使用的方法等... 持续更新
