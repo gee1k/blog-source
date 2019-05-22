@@ -4,7 +4,7 @@ tags:
   - Mac
 categories: "Notes"
 date: 2018/12/01
-thumbnail: http://s2.svend.cc/thumb/startup_life.svg
+thumbnail: //s2.svend.cc/thumb/startup_life.svg
 toc: true
 widgets:
   - type: toc

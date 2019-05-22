@@ -5,7 +5,7 @@ tags:
   - Vue
 categories: "Notes"
 date: 2019/03/20
-thumbnail: http://s2.svend.cc/thumb/coding.svg
+thumbnail: //s2.svend.cc/thumb/coding.svg
 toc: true
 widgets:
   - type: toc

@@ -5,7 +5,7 @@ tags:
   - Web
 categories: "Notes"
 date: 2019/04/15
-thumbnail: http://s2.svend.cc/thumb/JavaScript_Frameworks.svg
+thumbnail: //s2.svend.cc/thumb/JavaScript_Frameworks.svg
 toc: true
 widgets:
   - type: toc

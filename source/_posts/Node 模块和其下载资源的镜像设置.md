@@ -5,7 +5,7 @@ tags:
   - Npm
 categories: "Notes"
 date: 2018/10/01
-thumbnail: http://s2.svend.cc/thumb/connected_world.svg
+thumbnail: //s2.svend.cc/thumb/connected_world.svg
 toc: true
 widgets:
   - type: toc

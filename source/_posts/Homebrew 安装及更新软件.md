@@ -4,7 +4,7 @@ tags:
   - Mac
 categories: "Notes"
 date: 2019/04/18
-thumbnail: http://s2.svend.cc/thumb/server_down.svg
+thumbnail: //s2.svend.cc/thumb/server_down.svg
 toc: true
 widgets:
   - type: toc
