@@ -67,9 +67,9 @@ comment:
   type: gitalk
   owner: gee1k
   repo: blog-source
-  client_id: af0675908d29e5657e8b
-  client_secret: 3badc8213b0517c3ce0cf70cba9e65ceab9b4210
-  admin: gee1k
+  client_id: a9aa650da65bc9a05403
+  client_secret: 9c1d788e7d1e2fc5229bdc5bfb44b6ca35262625
+  admin: ["gee1k"]
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 # donate:
