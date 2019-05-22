@@ -12,11 +12,6 @@ widgets:
     position: left
   - type: recent_posts
     position: left
-sidebar:
-  left:
-    sticky: true
-  right:
-    sticky: true
 ---
 
 > 一些 JavaScript 中使用的方法等... 持续更新

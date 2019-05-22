@@ -12,11 +12,6 @@ widgets:
     position: left
   - type: recent_posts
     position: left
-sidebar:
-  left:
-    sticky: true
-  right:
-    sticky: true
 ---
 
 > CSS Hacks, 持续补充
