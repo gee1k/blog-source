@@ -1,6 +1,7 @@
 ---
 title: 404
 date: 1970-01-01 00:00:00
+type: "404"
 ---
 
 <script src="//qzonestyle.gtimg.cn/qzone/hybrid/app/404/search_children.js"
