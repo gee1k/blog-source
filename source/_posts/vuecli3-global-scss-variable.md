@@ -12,7 +12,6 @@ widgets:
     position: left
   - type: recent_posts
     position: left
-abbrlink: 79a6ac4c
 ---
 
 ## 首先创建一个全局变量文件 `global.scss`

@@ -2,7 +2,7 @@
 title: Mac 软件
 tags:
   - Mac
-categories: Notes
+categories: Essay
 date: 2018/12/01
 thumbnail: //s2.svend.cc/thumb/startup_life.svg
 toc: true
@@ -11,7 +11,6 @@ widgets:
     position: left
   - type: recent_posts
     position: left
-abbrlink: de9faaea
 ---
 
 # 个人使用软件

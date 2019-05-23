@@ -12,7 +12,6 @@ widgets:
     position: left
   - type: recent_posts
     position: left
-abbrlink: 3ed0c75a
 ---
 
 #### 需求背景

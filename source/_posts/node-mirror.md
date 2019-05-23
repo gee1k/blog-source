@@ -12,7 +12,6 @@ widgets:
     position: left
   - type: recent_posts
     position: left
-abbrlink: 2ad1032
 ---
 
 以前安装 `electron` 时总是失败，然后就在`淘宝镜像`上下载好相应版本的文件放到用户目录来解决问题。

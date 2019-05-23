@@ -12,7 +12,6 @@ widgets:
     position: left
   - type: recent_posts
     position: left
-abbrlink: 13416c90
 ---
 
 > 一些 JavaScript 中使用的方法等... 持续更新

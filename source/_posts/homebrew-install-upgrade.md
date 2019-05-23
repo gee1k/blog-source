@@ -11,7 +11,6 @@ widgets:
     position: left
   - type: recent_posts
     position: left
-abbrlink: 2000470f
 ---
 
 ## brew

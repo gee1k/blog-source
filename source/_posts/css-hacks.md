@@ -12,7 +12,6 @@ widgets:
     position: left
   - type: recent_posts
     position: left
-abbrlink: 21a34d28
 ---
 
 > CSS Hacks, 持续补充

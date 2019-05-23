@@ -1327,14 +1327,6 @@ hawk@1.1.1:
     hoek "0.9.x"
     sntp "0.2.x"
 
-hexo-abbrlink@^2.0.5:
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/hexo-abbrlink/-/hexo-abbrlink-2.0.5.tgz#d7aba4daed3b9697bb05d1d2302e64b008ff3a75"
-  integrity sha512-0Yi0vLc1CS1OkL7BUFJEbV9K737ifV+nFb+YZURGDfS5d9Q4NFikuoBI4kjfPUrxg4gLxT17WsopbUqTRbI82A==
-  dependencies:
-    hexo-front-matter "^0.2.3"
-    hexo-fs "^0.2.2"
-
 hexo-bunyan@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hexo-bunyan/-/hexo-bunyan-1.0.0.tgz#b2106b26547b232f0195db863cb5d5ff8527fd36"
@@ -1361,7 +1353,7 @@ hexo-cli@^1.1.0:
     resolve "^1.5.0"
     tildify "^1.2.0"
 
-hexo-front-matter@^0.2.2, hexo-front-matter@^0.2.3:
+hexo-front-matter@^0.2.2:
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/hexo-front-matter/-/hexo-front-matter-0.2.3.tgz#c7ca8ef420ea36bd85e8408a2e8c9bf49efa605e"
   integrity sha1-x8qO9CDqNr2F6ECKLoyb9J76YF4=
