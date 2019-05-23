@@ -80,6 +80,7 @@ theme: icarus
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
+  - type: baidu_url_submitter
 
 nofollow:
 	enable: true
@@ -89,3 +90,9 @@ nofollow:
 
 sitemap:
   path: sitemap.xml
+
+baidu_url_submit:
+  count: 1
+  host: blog.svend.cc
+  token: xfPQLQ7nWkFUz31D
+  path: baidu_urls.txt
