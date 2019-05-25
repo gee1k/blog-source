@@ -3,7 +3,7 @@ title: Node.js 多进程处理CPU密集任务
 tags:
   - Node.js
 categories: Notes
-date: 2019/05/26
+date: 2019/05/26 00:00:00
 thumbnail: //s2.svend.cc/thumb/in_progress.svg
 toc: true
 widgets:
@@ -18,14 +18,14 @@ sidebar:
     sticky: true
 ---
 
-## Node.js 多进程
+## Node.js 单线程与多进程
 
 大家都知道 Node.js 性能很高，是以异步事件驱动、非阻塞 I/O 而被广泛使用。但缺点也很明显，由于 Node.js 是单线程程序，如果长时间运算，会导致 CPU 不能及时释放,所以并不适合 CPU 密集型应用。
 
-<!-- more -->
-
 当然，也不是没有办法解决这个问题。虽然 Node.js 不支持多线程，但是可创建多子进程来执行任务。
 Node.js 提供了 `child_process` 和 `cluster` 两个模块可用于创建多子进程
+
+<!-- more -->
 
 下面我们就分别使用单线程和多进程来模拟查找大量斐波那契数进行 CPU 密集测试
 
