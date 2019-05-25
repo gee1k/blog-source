@@ -11,7 +11,7 @@ widgets:
   - type: toc
     position: left
   - type: recent_posts
-    position: left
+    position: right
 ---
 
 > 一些 JavaScript 中使用的方法等... 持续更新

@@ -11,7 +11,12 @@ widgets:
   - type: toc
     position: left
   - type: recent_posts
-    position: left
+    position: right
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: true
 ---
 
 #### 需求背景

@@ -11,7 +11,12 @@ widgets:
   - type: toc
     position: left
   - type: recent_posts
-    position: left
+    position: right
+sidebar:
+  left:
+    sticky: true
+  right:
+    sticky: true
 ---
 
 > CSS Hacks, 持续补充
