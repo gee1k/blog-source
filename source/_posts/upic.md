@@ -1,5 +1,5 @@
 ---
-title: 个人首个 MacOS 项目 uPic 发布了
+title: 超级简洁的 https://sm.ms 图床 Mac 版客户端 uPic
 tags:
   - Swift
   - MacOS
@@ -21,7 +21,7 @@ sidebar:
 
 ## uPic
 
-超级简洁的基于 https://sm.ms 图床的 Mac 版上传客户端
+超级简洁的 https://sm.ms 图床 Mac 版客户端
 
 ![uPic](https://i.loli.net/2019/06/09/5cfc720f0f7c339579.png)
 
