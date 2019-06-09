@@ -1,5 +1,5 @@
 ---
-title: 超级简洁的 Mac 图床客户端 uPic
+title: 简洁的 Mac 图床客户端 uPic
 tags:
   - Swift
   - MacOS
@@ -21,7 +21,7 @@ sidebar:
 
 ## uPic
 
-> uPic 是基于 [https://sm.ms][https://sm.ms] 图床服务的一个开源 Mac 版客户端
+> uPic 是基于 [https://sm.ms](https://sm.ms) 图床服务的一个开源 Mac 版客户端
 
 ![uPic](https://i.loli.net/2019/06/09/5cfc720f0f7c339579.png)
 
