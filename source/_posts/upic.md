@@ -21,9 +21,9 @@ sidebar:
 
 ## uPic
 
-> uPic 是基于 [https://sm.ms](https://sm.ms) 图床服务的一个开源 Mac 版客户端
+> 简洁的 Mac 图床客户端 uPic
 
-![uPic](https://i.loli.net/2019/06/09/5cfc720f0f7c339579.png)
+![pic](https://i.loli.net/2019/06/09/5cfc720f0f7c339579.png)
 
 ### 链接
 
@@ -32,7 +32,7 @@ sidebar:
 
 <!-- more -->
 
-### 功能
+### Features
 
 - [x] 支持 URL、HTML Img、Markdown 输出格式
 - [x] 支持上传剪切板中复制的图片
@@ -40,7 +40,16 @@ sidebar:
 - [x] 支持截图上传、微信、QQ 等第三方截图的也可以
 - [x] 支持检查更新
 
-### 预览
+### 支持图床
+
+> 现只支持 sm.ms，未来支持
+
+- [ ] 七牛云
+- [ ] 又拍云
+- [ ] 阿里云
+- [ ] 腾讯云
+
+### Preview
 
 - 选择文件上传
 
