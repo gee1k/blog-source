@@ -1,5 +1,6 @@
 ---
 title: uPic 使用教程
+permalink: upic-guide
 tags:
   - Swift
   - MacOS
