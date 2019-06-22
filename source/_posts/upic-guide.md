@@ -1,11 +1,11 @@
 ---
-title: 简洁的 Mac 图床客户端 uPic
+title: uPic 使用教程
 tags:
   - Swift
   - MacOS
   - uPic
 categories: Projects
-date: 2019/06/09 11:45
+date: 2019/06/22 18:35
 thumbnail: //s2.svend.cc/thumb/done.svg
 toc: true
 widgets:
