@@ -28,24 +28,26 @@ navbar:
     分类: /categories
     标签: /tags
     关于: /about
+    丨: /#/
+    uPic: /upic
   # Navigation bar links to be shown on the right
   links:
     Follow me:
       icon: fab fa-github
-      url: "https://github.com/gee1k"
+      url: 'https://github.com/gee1k'
 # Footer section link settings
 footer:
   # Links to be shown on the right of the footer section
   links:
     Creative Commons:
       icon: fab fa-creative-commons
-      url: "https://creativecommons.org/"
+      url: 'https://creativecommons.org/'
     Attribution 4.0 International:
       icon: fab fa-creative-commons-by
-      url: "https://creativecommons.org/licenses/by/4.0/"
+      url: 'https://creativecommons.org/licenses/by/4.0/'
     Follow me:
       icon: fab fa-github
-      url: "https://github.com/gee1k"
+      url: 'https://github.com/gee1k'
 # Article display settings
 article:
   # Code highlight theme
@@ -69,22 +71,22 @@ comment:
   repo: blog-comment
   client_id: a9aa650da65bc9a05403
   client_secret: 9c1d788e7d1e2fc5229bdc5bfb44b6ca35262625
-  admin: ["gee1k"]
+  admin: ['gee1k']
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 donate:
   - # Donation entry name
     type: alipay
     # Qrcode image URL
-    qrcode: "//s2.svend.cc/qrcode/alipay.JPG"
+    qrcode: '//s2.svend.cc/qrcode/alipay.JPG'
   - # Donation entry name
     type: wechat
     # Qrcode image URL
-    qrcode: "//s2.svend.cc/qrcode/wechat.JPG"
+    qrcode: '//s2.svend.cc/qrcode/wechat.JPG'
   - # Donation entry name
     type: paypal
     # Paypal business ID or email address
-    business: "svend.jin@gmail.com"
+    business: 'svend.jin@gmail.com'
     # Currency code
     currency_code: USD
   # - # Donation entry name
@@ -129,21 +131,21 @@ widgets:
     # Whether to show avatar image rounded or square
     avatar_rounded: false
     # Path or URL for the follow button
-    follow_link: "https://github.com/gee1k"
+    follow_link: 'https://github.com/gee1k'
     # Links to be shown on the bottom of the profile widget
     social_links:
       Github:
         icon: fab fa-github
-        url: "https://github.com/gee1k"
+        url: 'https://github.com/gee1k'
       #Facebook:
       #  icon: fab fa-facebook
       #  url: "https://facebook.com"
       Twitter:
         icon: fab fa-twitter
-        url: "https://twitter.com/geee1k"
+        url: 'https://twitter.com/geee1k'
       Telegram:
         icon: fab fa-telegram
-        url: "https://t.me/gee1k"
+        url: 'https://t.me/gee1k'
       RSS:
         icon: fas fa-rss
         url: /atom.xml
@@ -157,8 +159,8 @@ widgets:
     position: left
     # Links to be shown in the links widget
     links:
-      Svend's Home: "https://svend.cc"
-      Svend: "https://github.com/gee1k"
+      Svend's Home: 'https://svend.cc'
+      Svend: 'https://github.com/gee1k'
   - # Widget name
     type: category
     # Where should the widget be placed, left or right
