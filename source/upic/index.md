@@ -19,6 +19,16 @@ sidebar:
 
 # ☁️ 简洁的 Mac 图床客户端 uPic
 
+<div style="display: flex;justify-content: center;">
+   <a href="https://github.com/gee1k/uPic/stargazers">
+    <img src="https://img.shields.io/github/stars/gee1k/uPic.svg?style=popout-square" alt="">
+  </a> <a href="https://github.com/gee1k/uPic/releases" style="margin: 0 5px;">
+    <img src="https://img.shields.io/github/downloads/gee1k/uPic/total.svg?style=popout-square" alt="">
+  </a> <a href="https://github.com/gee1k/uPic/releases/latest">
+    <img src="https://img.shields.io/github/release/gee1k/uPic.svg?style=popout-square" alt="">
+  </a>
+</div>
+
 ## 📑 简介
 
 > **uPic 是一款 Mac 端的图床(文件)上传客户端**
@@ -97,6 +107,7 @@ sidebar:
 - `Email`: svend.jin@gmail.com
 - `微信`: `JSW5297` (请备注一下 uPic)
 - `Telegram`: [gee1k](https://t.me/gee1k)
+- `项目地址`: [Github](https://github.com/gee1k/uPic)
 
 # 📝 使用手册
 
