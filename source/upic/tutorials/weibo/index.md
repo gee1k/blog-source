@@ -12,6 +12,8 @@ sidebar:
     sticky: true
 ---
 
+<hr>
+
 ![微博配置界面](https://gitee.com/gee1k/oss/raw/master/tutorials/weibo-host.png)
 
 ## 📝 配置项说明
@@ -31,7 +33,7 @@ sidebar:
 
 ![获取 Cookie](https://gitee.com/gee1k/oss/raw/master/tutorials/weibo-get-cookie.png)
 
-- 1.在 PC 浏览器上登录微博，打开[minipublish 页面](https://weibo.com/minipublish)。`原因是因为这个页面内容少，请求数量比较少，更容易找 Cookie`
+- 1.在 PC 浏览器上登录微博，打开 <a href="https://weibo.com/minipublish" target="_blank">minipublish 页面</a>。`原因是因为这个页面内容少，请求数量比较少，更容易找 Cookie`
 - 2.打开开发者工具`command + option + i`，选择 `Network` 栏
 - 3.刷新页面，让开发者工具记录下网络请求，然后如图所示，选择最上面名为`minipublish`的请求
 - 4.然后在右侧的 `Headers` 栏目下，找到如图红框里选中的内容即为需要的 Cookie 内容。`注意是 Cookie:` 后面的内容哦。
@@ -43,3 +45,11 @@ sidebar:
 - `Cookie 模式`: 上传速度快。`缺点：需要手动获取 Cookie，不动技术的人操作起来有点复杂`
 
 > 大家自己选择喜欢的方式吧
+
+<hr>
+
+## uPic 微信交流群
+
+  <img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/uPic-wechat.JPG" alt="uPic产品交流群" style="width: 300px;" align="center">
+
+<hr>
