@@ -5,7 +5,7 @@ thumbnail: //s2.svend.cc/thumb/done.svg
 toc: true
 widgets:
   - type: toc
-    position: left
+    position: right
 sidebar:
   left:
     sticky: true
@@ -72,6 +72,10 @@ sidebar:
 - [七牛云 KODO](https://www.qiniu.com/products/kodo)
 - [阿里云 OSS](https://www.aliyun.com/product/oss/)
 - [腾讯云 COS](https://cloud.tencent.com/product/cos)
+- [微博](https://weibo.com/)
+- [Github](https://github.com/settings/tokens)
+- [Gitee](https://gitee.com/profile/personal_access_tokens)
+- [自定义上传接口](https://blog.svend.cc/upic/tutorials/custom)
 - ...
 
 #### ⚙️ 配置图床
@@ -108,7 +112,16 @@ sidebar:
 - `微信`: `JSW5297` (请备注一下 uPic)
 - `Telegram`: [gee1k](https://t.me/gee1k)
 - `项目地址`: [Github](https://github.com/gee1k/uPic)
+- `uPic 产品交流群(微信)`:
+  <img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/uPic-wechat.JPG" alt="uPic产品交流群" style="width: 300px;" align="center">
 
 # 📝 使用手册
 
-**编写中...敬请期待**
+- [uPic 图床配置教程 - 微博](./tutorials/weibo)
+- [uPic 图床配置教程 - 又拍云](./tutorials/upyun_uss)
+- [uPic 图床配置教程 - 七牛云](./tutorials/qiniu_kodo)
+- [uPic 图床配置教程 - 阿里云](./tutorials/aliyun_oss)
+- [uPic 图床配置教程 - 腾讯云](./tutorials/tencent_cos)
+- [uPic 图床配置教程 - Github](./tutorials/github)
+- [uPic 图床配置教程 - 码云(Gitee)](./tutorials/gitee)
+- [uPic 图床配置教程 - 自定义上传](./tutorials/custom)
