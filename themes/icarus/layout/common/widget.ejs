@@ -24,6 +24,9 @@
     <% get_widgets(position).forEach(widget => {%>
         <%- partial('widget/' + widget.type, { widget, post: page }) %>
     <% }) %>
+
+    <%- partial('ads/google_adsense') %>
+    
     <% if (position === 'left') { %>
         <div class="column-right-shadow is-hidden-widescreen <%= sticky_class('right') %>">
         <% get_widgets('right').forEach(widget => {%>
@@ -31,5 +34,6 @@
         <% }) %>
         </div>
     <% } %>
+    
 </div>
 <% } %>
