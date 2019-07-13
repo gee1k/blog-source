@@ -51,19 +51,19 @@ sidebar:
 
 #### 🖥 选择文件上传
 
-![选择文件上传](https://gitee.com/gee1k/uPic/raw/master/screenshot/selectFile.gif)
+![选择文件上传](https://raw.githubusercontent.com/gee1k/uPic/master/screenshot/selectFile.gif)
 
 #### ⌨️ 复制文件上传
 
-![复制文件上传](https://gitee.com/gee1k/uPic/raw/master/screenshot/paste.gif)
+![复制文件上传](https://raw.githubusercontent.com/gee1k/uPic/master/screenshot/paste.gif)
 
 #### 🖱 拖拽文件上传
 
-![拖拽文件上传](https://gitee.com/gee1k/uPic/raw/master/screenshot/drag.gif)
+![拖拽文件上传](https://raw.githubusercontent.com/gee1k/uPic/master/screenshot/drag.gif)
 
 #### 🖱 截图上传
 
-![截图上传](https://gitee.com/gee1k/uPic/raw/master/screenshot/screenshot.gif)
+![截图上传](https://raw.githubusercontent.com/gee1k/uPic/master/screenshot/screenshot.gif)
 
 ## 📦 图床、对象存储
 
