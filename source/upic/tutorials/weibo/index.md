@@ -48,8 +48,8 @@ sidebar:
 
 <hr>
 
-## uPic 微信交流群
-
-  <img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/uPic-wechat.JPG" alt="uPic产品交流群" style="width: 300px;" align="center">
+## 微信交流群
+  <small>扫描下方二维码加好友拉你入群 ↓ </small>
+	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200" style="height:200px">
 
 <hr>

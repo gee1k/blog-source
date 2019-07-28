@@ -96,12 +96,11 @@ sidebar:
 # 💌 联系我
 
 - `Email`: svend.jin@gmail.com
-- `微信`: `JSW5297` (请备注一下 uPic)
 - `Telegram`: [gee1k](https://t.me/gee1k)
 - `项目地址`: [Github](https://github.com/gee1k/uPic)
-- `uPic 产品交流群(Telegram)`: [点击加入 TG 群](https://t.me/upic_host)
-- `uPic 产品交流群(微信)`:
-  <img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/uPic-wechat.JPG" alt="uPic产品交流群" style="width: 300px;" align="center">
+- `uPic 产品交流群(Telegram)`:  [点击加入 TG 群](https://t.me/upic_host)
+- `微信群`:  <small>扫描下方二维码加好友拉你入群 ↓ </small>
+	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200" style="height:200px">
 
 # 📝 使用手册
 
