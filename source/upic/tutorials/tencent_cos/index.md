@@ -24,6 +24,7 @@ sidebar:
 - `SecretKey`: 密钥。[图例](#🔑-密钥获取-SecretId、SecretKey)
 - `域名`: 使用腾讯云默认提供的测试域名或者你的自定义域名。域名可在控制台查看。`域名需以http://或者https://开头`。[图例](#🧰-区域、空间名称、域名信息获取)
 - `更多设置`: `域名`后面设置按钮可以弹出详细的文件访问 URL 配置，可额外配置储存文件夹路径和文件名规则。
+  - `网址后缀`: 用于自定义图片处理。腾讯云 COS 目前还不支持，先预留
   ![扩展配置](https://gitee.com/gee1k/oss/raw/master/tutorials/tencent-host-extension.png)
 
 ## 🧰 区域、空间名称、域名信息获取

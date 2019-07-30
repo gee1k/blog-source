@@ -26,7 +26,6 @@ sidebar:
 - `URL 路径`: 上传完成返回的 JSON 中图片 URL 的获取路径。[获取规则](#URL-获取规则)
 - `域名`: 上传过后，访问服务器文件的 URL。
 - `更多设置`: `域名`后面设置按钮可以弹出详细的文件访问 URL 配置，可额外配置储存文件夹路径和文件名规则。
-
 ![其他字段](https://gitee.com/gee1k/oss/raw/master/tutorials/custom-host-extension-field.png)
 
 ![扩展配置](https://gitee.com/gee1k/oss/raw/master/tutorials/custom-host-extension.png)
