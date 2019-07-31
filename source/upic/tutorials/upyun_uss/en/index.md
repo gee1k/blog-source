@@ -28,7 +28,7 @@ sidebar:
 
 ## 🧰 Achieve namespace/domain
 
-**Open [云存储](https://console.upyun.com/services/file/)**
+**Open [UPYUN Storage Service](https://console.upyun.com/services/file/)**
 ![Upyun control panel](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-info.png)
 
 ## 🔑 Operate User config
