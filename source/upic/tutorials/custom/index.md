@@ -94,7 +94,7 @@ sidebar:
 
 - `{filename}`：会以上传时的文件名动态替换
 
-## 微信交流群
+## 💌 微信交流群
   <small>扫描下方二维码加好友拉你入群 ↓ </small>
 	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200" style="height:200px">
 
