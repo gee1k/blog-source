@@ -18,16 +18,16 @@ sidebar:
 
 ## 📝 Options instruction
 
-- `Region`: Where your oss space located, can be found in tencent cloud's control panel. [Example](#🧰-Achieve-region-space-name-domain)
-- `Space Name`: The name of your oss space, can be found in tencent cloud's control panel. [Example](#🧰-Achieve-region-space-name-domain)
+- `Region`: Where your oss space located, can be found in tencent cloud's control panel. [Example](#🧰-Region-bucket-domain)
+- `Bucket`: The bucket name of your oss space, can be found in tencent cloud's control panel. [Example](#🧰-Region-bucket-domain)
 - `SecretId`: SecretId provided by tencent cloud. [Example](#🔑-Secret-SecretId、SecretKey)
 - `SecretKey`: Secret Key provided by tencent cloud. [Example](#🔑-Secret-SecretId、SecretKey)
-- `Domain`: You can custom your domain or use the default domain for test provided by tencent cloud, can be found in tencent cloud's control panel. `Domain must start with http:// or https://`. [Example](#🧰-Achieve-region-space-name-domain)
+- `Domain`: You can custom your domain or use the default domain for test provided by tencent cloud, can be found in tencent cloud's control panel. `Domain must start with http:// or https://`. [Example](#🧰-Region-bucket-domain)
 - `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
   - `Suffix`: This can be used for custom picture processor. Remain to be completed since tencent cloud doesn't support this function now.
   ![Extra](https://gitee.com/gee1k/oss/raw/master/tutorials/tencent-host-extension.png)
 
-## 🧰 Achieve region/space-name/domain
+## 🧰 Region/bucket/domain
 
 **Open [Bucket](https://console.cloud.tencent.com/cos5/bucket) control panel, create and configure bucket**
 
