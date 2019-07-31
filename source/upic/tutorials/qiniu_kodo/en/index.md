@@ -18,11 +18,11 @@ sidebar:
 
 ## 📝 Options instruction
 
-- `Region`: Where your storage space located, you can find it in Qiniu's control panel. [Example](#🧰-Achieve-region/space-name/domain)
-- `Space Name`: The name of your storage space, can be found in Qiniu's control panel. [Example](#🧰-Achieve-region/space-name/domain)
-- `Access Key`: Access key provided by Qiniu. [Example](#🔑-Secret(Access Key、Secret Key))
-- `Secret Key`: Secret key provided by Qiniu. [Example](#🔑-Secret(Access Key、Secret Key))
-- `Domain`: You can custom your domain or use the default domain for test provided by Qiniu, can be found in Qiniu's control panel.`Domain must start with http:// or https://`. [Example](#🧰-Achieve-region/space-name/domain)
+- `Region`: Where your storage space located, you can find it in Qiniu's control panel. [Example](#🧰-Achieve-region-space-name-domain)
+- `Space Name`: The name of your storage space, can be found in Qiniu's control panel. [Example](#🧰-Achieve-region-space-name-domain)
+- `Access Key`: Access key provided by Qiniu. [Example](#🔑-Secret-Access-Key、Secret-Key)
+- `Secret Key`: Secret key provided by Qiniu. [Example](#🔑-Secret-Access-Key、Secret-Key)
+- `Domain`: You can custom your domain or use the default domain for test provided by Qiniu, can be found in Qiniu's control panel.`Domain must start with http:// or https://`. [Example](#🧰-Achieve-region-space-name-domain)
 - `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
   - `Suffix`: This can be used for custom picture processor. You can configure custom picture style via Qiniu. Eg. Rule named `w` divided by `!` can apply watermark, so fill this field with `!w`. Then each generated url will have a suffix `-w`, which can carry a watermark.
   ![Extra](https://gitee.com/gee1k/oss/raw/master/tutorials/qiniu-host-extension.png)
@@ -40,7 +40,7 @@ sidebar:
 
 <hr>
 
-## Our Wechat group
+## 💌 Our Wechat group
   <small>Scan the qrcode to join the group ↓ </small>
 	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200" style="height:200px">
 
