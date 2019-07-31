@@ -12,7 +12,7 @@ sidebar:
     sticky: true
 ---
 
-<hr>
+<hr><!-- i18n --><div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div><!-- i18n -->
 
 ![阿里云配置](https://gitee.com/gee1k/oss/raw/master/tutorials/aliyun-host.png)
 
