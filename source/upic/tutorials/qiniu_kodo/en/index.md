@@ -12,7 +12,7 @@ sidebar:
     sticky: true
 ---
 
-<hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) -- **🇬🇧English**</div><!-- i18n -->
+<hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
 
 ![Qiniu's config interface](https://gitee.com/gee1k/oss/raw/master/tutorials/qiniu-host.png)
 

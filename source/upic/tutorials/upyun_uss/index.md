@@ -12,7 +12,7 @@ sidebar:
     sticky: true
 ---
 
-<hr><!-- i18n --><div align="right">**🇨🇳中文** -- [**🇬🇧English**](./en)</div><!-- i18n -->
+<hr><!-- i18n --><div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div><!-- i18n -->
 
 ![又拍云配置](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-host.png)
 
