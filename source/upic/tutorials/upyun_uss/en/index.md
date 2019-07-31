@@ -12,16 +12,16 @@ sidebar:
     sticky: true
 ---
 
-<hr>
+<hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) -- **🇬🇧English**</div><!-- i18n -->
 
 ![Upyun's config interface](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-host.png)
 
 ## 📝 Options instruction
 
-- `Namespace`: The name of oss space, you can find it in Upyun's control panel. [Example](#🧰-achieve-namespace/domain)
-- `Operate User`: User who can access this namespace. [Example](#🔑-operate-user-config)
-- `Operate Password`: User's password. [Example](#🔑-operate-user-config)
-- `Domain`: You can custom your domain or use the default domain for test provided by Upyun. you can find it in Upyun's control panel. `Domain must start with http:// or https://`. [Example](#🧰-achieve-namespace/domain)
+- `Namespace`: The name of oss space, you can find it in Upyun's control panel. [Example](#🧰-Achieve-namespace-domain)
+- `Operate User`: User who can access this namespace. [Example](#🔑-Operate-User-config)
+- `Operate Password`: User's password. [Example](#🔑-Operate-User-config)
+- `Domain`: You can custom your domain or use the default domain for test provided by Upyun. you can find it in Upyun's control panel. `Domain must start with http:// or https://`. [Example](#🧰-Achieve-namespace-domain)
 - `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
   - `Suffix`: This can be used for custom picture processor. You can configure it in Upyun's `图片处理-自定义版本`. Eg. Rule named `w` divided by `!` can apply watermark, so fill this field with `!w`. Then each generated url will have a suffix `-w`, which can carry a watermark.
   ![Extra](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-host-extension.png)

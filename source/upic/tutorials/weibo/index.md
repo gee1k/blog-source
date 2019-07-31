@@ -11,8 +11,7 @@ sidebar:
   right:
     sticky: true
 ---
-
-<hr>
+<hr><!-- i18n --><div align="right">**🇨🇳中文** -- [**🇬🇧English**](./en)</div><!-- i18n -->
 
 ![微博配置界面](https://gitee.com/gee1k/oss/raw/master/tutorials/weibo-host.png)
 
