@@ -19,11 +19,11 @@ sidebar:
 
 ## 📝 Options instruction
 
-- `Region`: The area of your aliyun,can be viewed in the aliyun console panel.[Example](#🧰-Achieve region/space-name/domain)
-- `Space Name`: The name of your aliyun,can be viewed in the aliyun console panel. [Example](#🧰-Achieve region/space-name/domain)
-- `Access Key`: The Access Key of aliyun. [Example](#🔑-The Secret(AccessKey ID、Access Key Secret))
-- `Secret Key`: The Secret Key of aliyun. [Example](#🔑-The Secret(AccessKey ID、Access Key Secret))
-- `Domain`: You can custom your domain or use the default domain for test provided by aliyun, can be found in aliyun's control panel.`Domain must start with http:// or https://`.[Example](#🧰-Achieve region/space-name/domain)
+- `Region`: The area of your aliyun,can be viewed in the aliyun console panel.[Example](#🧰 Achieve region/space-name/domain)
+- `Space Name`: The name of your aliyun,can be viewed in the aliyun console panel. [Example](#🧰 Achieve region/space-name/domain)
+- `Access Key`: The Access Key of aliyun. [Example](#🔑 The Secret(AccessKey ID、Access Key Secret))
+- `Secret Key`: The Secret Key of aliyun. [Example](#🔑 The Secret(AccessKey ID、Access Key Secret))
+- `Domain`: You can custom your domain or use the default domain for test provided by aliyun, can be found in aliyun's control panel.`Domain must start with http:// or https://`.[Example](#🧰 Achieve region/space-name/domain)
 - `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
   - `Suffix`: For custom image processing. There can be configured `image processing domain name rules` in aliyun. For example, if the rule name is `w` to identify the watermark version and the separator is `!`, you can fill in the URL suffix `!w`. After each uploaded image generation connection will be appended with `-w`, that is, to access the watermark version.
   - ![扩展配置](https://gitee.com/gee1k/oss/raw/master/tutorials/aliyun-host-extension.png)
