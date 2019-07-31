@@ -28,7 +28,7 @@ sidebar:
   - `Suffix`: For custom image processing. There can be configured `image processing domain name rules` in aliyun. For example, if the rule name is `w` to identify the watermark version and the separator is `!`, you can fill in the URL suffix `!w`. After each uploaded image generation connection will be appended with `-w`, that is, to access the watermark version.
   - ![extension](https://gitee.com/gee1k/oss/raw/master/tutorials/aliyun-host-extension.png)
 
-## 🧰-Achieve-region-space-name-domain
+## 🧰 Achieve region/space-name/domain
 
 **View it by entering  [Cloud storage](https://oss.console.aliyun.com/overview) console panel**
 
@@ -37,7 +37,7 @@ sidebar:
 
 
 
-## 🔑-The-Secret-AccessKey-ID、Access-Key-Secret
+## 🔑 The Secret(AccessKey ID、Access Key Secret)
 
 **View it by entering personal info  [User information management](https://usercenter.console.aliyun.com/#/manage/ak) console panel**
 ![AccessKey](https://gitee.com/gee1k/oss/raw/master/tutorials/aliyun-ak.png)
