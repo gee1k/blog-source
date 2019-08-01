@@ -108,7 +108,7 @@ brew cask install upic
 </details>
 
 
-## ❓ Question
+## ❓ FAQ
 
 <details>
 	<summary>1.How to configurate image hosting❓</summary>
@@ -136,7 +136,7 @@ brew cask install upic
 </details>
 
 
-# 📝 使用手册
+## 📝 Tutorials
 
 - [uPic configuration - Weibo](./tutorials/weibo)
 - [uPic configuration - UPYUN](./tutorials/upyun_uss)

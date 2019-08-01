@@ -119,7 +119,7 @@ brew cask install upic
 	</div> 
 </details>
 
-# 📝 使用手册
+## 📝 使用手册
 
 - [uPic 图床配置教程 - 微博](./tutorials/weibo)
 - [uPic 图床配置教程 - 又拍云](./tutorials/upyun_uss)
