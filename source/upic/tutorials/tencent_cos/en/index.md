@@ -24,7 +24,7 @@ sidebar:
 - `SecretKey`: Secret Key provided by tencent cloud. [Example](#🔑-Secret-SecretId、SecretKey)
 - `Domain`: You can custom your domain or use the default domain for testing provided by tencent cloud which can be found in tencent cloud's control panel. `Domain must start with http:// or https://`. [Example](#🧰-Region-bucket-domain)
 - `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
-  - `Suffix`: This can be used for custom picture processor. Remain to be completed since tencent cloud doesn't support this function now.
+  - `Suffix`: This will be used for custom picture processor. Remain to be completed since tencent cloud doesn't support this function now.
   ![Extra](https://gitee.com/gee1k/oss/raw/master/tutorials/tencent-host-extension.png)
 
 ## 🧰 Region/bucket/domain
