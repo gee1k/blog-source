@@ -21,9 +21,9 @@ sidebar:
 - `Bucket`: The bucket name of oss space, you can find it in Upyun's control panel. [Example](#🧰-Region-domain)
 - `Operate`: User who can access this namespace. [Example](#🔑-Operate-User-config)
 - `Operate Password`: User's password. [Example](#🔑-Operate-User-config)
-- `Domain`: You can custom your domain or use the default domain for test provided by Upyun. you can find it in Upyun's control panel. `Domain must start with http:// or https://`. [Example](#🧰-Region-domain)
+- `Domain`: You can custom your domain or use the default domain for testing provided by Upyun which can be found in Upyun's control panel. `Domain must start with http:// or https://`. [Example](#🧰-Region-domain)
 - `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
-  - `Suffix`: This can be used for custom picture processor. You can configure it in Upyun's `图片处理-自定义版本`. Eg. Rule named `w` divided by `!` can apply watermark, so fill this field with `!w`. Then each generated url will have a suffix `-w`, which can carry a watermark.
+  - `Suffix`: This can be used for custom picture processor. You can configure it in Upyun's `图片处理-自定义版本`. Eg. Rule named `w` divided by `!` can apply watermark, so fill this field with `!w`. Then each generated url will have a suffix `-w`, which would carry a watermark.
   ![Extra](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-host-extension.png)
 
 ## 🧰 Region/domain

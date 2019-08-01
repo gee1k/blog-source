@@ -22,9 +22,9 @@ sidebar:
 - `Bucket`: The bucket name of your storage space, can be found in Qiniu's control panel. [Example](#🧰-Region-bucket-domain)
 - `Access Key`: Access key provided by Qiniu. [Example](#🔑-Secret-Access-Key、Secret-Key)
 - `Secret Key`: Secret key provided by Qiniu. [Example](#🔑-Secret-Access-Key、Secret-Key)
-- `Domain`: You can custom your domain or use the default domain for test provided by Qiniu, can be found in Qiniu's control panel.`Domain must start with http:// or https://`. [Example](#🧰-Region-bucket-domain)
+- `Domain`: You can custom your domain or use the default domain for testing provided by Qiniu which can be found in Qiniu's control panel.`Domain must start with http:// or https://`. [Example](#🧰-Region-bucket-domain)
 - `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
-  - `Suffix`: This can be used for custom picture processor. You can configure custom picture style via Qiniu. Eg. Rule named `w` divided by `!` can apply watermark, so fill this field with `!w`. Then each generated url will have a suffix `-w`, which can carry a watermark.
+  - `Suffix`: This can be used for custom picture processor. You can configure custom picture style via Qiniu. Eg. Rule named `w` divided by `!` can apply watermark, so fill this field with `!w`. Then each generated url will have a suffix `-w`, which would carry a watermark.
   ![Extra](https://gitee.com/gee1k/oss/raw/master/tutorials/qiniu-host-extension.png)
 
 ## 🧰 Region/bucket/domain
