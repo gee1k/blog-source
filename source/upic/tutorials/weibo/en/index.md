@@ -33,7 +33,7 @@ sidebar:
 
 ![Achieve Cookie](https://gitee.com/gee1k/oss/raw/master/tutorials/weibo-get-cookie.png)
 
-- 1.Login Weibo in your browser(Chrome recommended), open <a href="https://weibo.com/minipublish" target="_blank">minipublish page</a>. `It's very easy to catch a request to achieve cookie in this page due to less content.`
+- 1.Login Weibo in your browser(Chrome recommended), open <a href="https://weibo.com/minipublish" target="_blank">minipublish page</a>. `It could be very simple to catch a request to achieve cookie in this page due to less content.`
 - 2.Open developer tool by press `command + option + i`, switch to `Network` tab.
 - 3.Refresh page and developer tool will catch requests, select `minipublish` request, it can be the first one usually.
 - 4.Then pay attention to `Headers` section right, find out the content as above picture's red box selected.
@@ -44,7 +44,7 @@ sidebar:
 - `Username/Password Mode`: Can achieve cookie automatically by call Weibo's api and do upload. But because of its extra request, it can be a bit slow.
 - `Cookie Mode`: More faster. But it can be a bit difficult for rookie.
 
-> All two methods are ok, you can choose the one you favorite.
+> Either method is ok, you can choose the one you favorite.
 
 <hr>
 
