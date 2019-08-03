@@ -19,12 +19,12 @@ sidebar:
 
 ## 📝 Options instruction
 
-- `username`: The username of gitee.Example:My Gitee main page[https://gitee.com/gee1k](https://gitee.com/gee1k)，my username is`gee1k`
-- `Repo`: The name of repo which you want to upload files.Example:my Repo's URL= [https://gitee.com/gee1k/oss](https://gitee.com/gee1k/oss), `oss` is the name of Reop.
+- `username`: The username of gitee.Example:My Gitee main page[https://gitee.com/gee1k](https://gitee.com/gee1k)，my username is `gee1k`
+- `Repo`: The name of repo which you want to upload files.Example:my Repo's URL = [https://gitee.com/gee1k/oss](https://gitee.com/gee1k/oss), `oss` is the name of Reop.
 - `Branch`: The name of branch,`master` is the name of Branch by default,if you want to upload to others,please establish first.
 - `Token`: Gitee personal access tokens.
 - `Domain`: Domain names are not set by default and will use your Gitee default URL.When you make the Rpeo's function of `pages` available and set up custom domain,you can use your own domain now.
-- `more`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
+- `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
 
 ![more config](https://gitee.com/gee1k/oss/raw/master/tutorials/gitee-host-extension.png)
 
@@ -47,7 +47,7 @@ sidebar:
 ![bingo](https://gitee.com/gee1k/oss/raw/master/tutorials/gitee-result.png)
 
 <hr>
-## 💌 Wechat chatting group
+## 💌 Our Wechat group
 
   <small>↓scan the QR code below and join in the group!↓</small>
 	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200" style="height:200px">
