@@ -13,7 +13,7 @@ sidebar:
 
 ---
 
-<hr>
+<hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
 
 ![Gitee configuration](https://gitee.com/gee1k/oss/raw/master/tutorials/gitee-host.png)
 
@@ -53,4 +53,3 @@ sidebar:
 	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200" style="height:200px">
 
 <hr>
-

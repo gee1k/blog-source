@@ -15,9 +15,10 @@ sidebar:
 
 <hr>
 
+<hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
+
+
 ![custom config](https://gitee.com/gee1k/oss/raw/master/tutorials/custom-host.png)
-
-
 
 ## 📝 Options instruction
 
