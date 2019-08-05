@@ -31,7 +31,12 @@ sidebar:
 ## 🧰 Region/bucket/domain
 
 **View it by  open [Cloud storage](https://s3.console.aws.amazon.com/s3) console panel**
-`Pay attention here!! when creating a bucket, don't check the permission settings to block all public access.`
+
+> Pay attention here!!
+
+- ** the bucket name should not be named in a format similar to: `blog.svend.cc`, such a bucket name S3 will be assigned a link of `https://s3.ap-northeast-2.amazonaws.com/blog .svend.cc/uPic.txt`, not a subdomain. Will cause the upload to fail. It should be named in a format similar to `blog-svend-cc`, and the links assigned by S3 will be generated as subdomains: `https://blog-svend-cc.s3.ap-northeast-2.amazonaws.com /uPic.txt` **
+- ** when creating a bucket, don't check the permission settings to block all public access. **
+
 ![Amazon S3 console](https://gitee.com/gee1k/oss/raw/master/tutorials/amazon_s3-info.png)
 
 ## 🔑 The Secret(AccessKey ID、Access Key Secret)

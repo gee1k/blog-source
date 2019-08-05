@@ -30,7 +30,9 @@ sidebar:
 ## 🧰 区域、空间名称获取
 
 **进入 [云存储](https://s3.console.aws.amazon.com/s3) 控制台查看**
-`注意创建 bucket 的时候权限设置不要勾选阻止所有公共访问。`
+- ** 注意 bucket 名称不要以类似：`blog.svend.cc` 的格式来命名，这样的 bucket 名称 S3 分配的链接会是`https://s3.ap-northeast-2.amazonaws.com/blog.svend.cc/uPic.txt`，而不是子域名。会导致上传失败。应当以类似：`blog-svend-cc` 的格式来命名，S3 分配的链接则会是以子域名生成：`https://blog-svend-cc.s3.ap-northeast-2.amazonaws.com/uPic.txt` **
+- ** 注意创建 bucket 的时候权限设置不要勾选阻止所有公共访问。 **
+
 ![Amazon S3控制台](https://gitee.com/gee1k/oss/raw/master/tutorials/amazon_s3-info.png)
 
 ## 🔑 密钥获取(AccessKey ID、Access Key Secret)
