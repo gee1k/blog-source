@@ -129,6 +129,7 @@ brew cask install upic
 - [uPic 图床配置教程 - Amazon S3](./tutorials/amazon_s3)
 - [uPic 图床配置教程 - Github](./tutorials/github)
 - [uPic 图床配置教程 - 码云(Gitee)](./tutorials/gitee)
+- [uPic 图床配置教程 - Imgur](./tutorials/imgur)
 - [uPic 图床配置教程 - 自定义上传](./tutorials/custom)
 
 ## 💌 联系我

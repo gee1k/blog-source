@@ -138,15 +138,16 @@ brew cask install upic
 
 ## 📝 Tutorials
 
-- [uPic configuration - Weibo](./tutorials/weibo)
-- [uPic configuration - UPYUN](./tutorials/upyun_uss)
-- [uPic configuration - Qiniu](./tutorials/qiniu_kodo)
-- [uPic configuration - Aliyun](./tutorials/aliyun_oss)
-- [uPic configuration - Tencent Cloud](./tutorials/tencent_cos)
-- [uPic configuration - Amazon S3](./tutorials/amazon_s3)
-- [uPic configuration - Github](./tutorials/github)
-- [uPic configuration - Gitee(Gitee)](./tutorials/gitee)
-- [uPic configuration - Custom upload](./tutorials/custom)
+- [uPic configuration - Weibo](../tutorials/weibo/en)
+- [uPic configuration - UPYUN](../tutorials/upyun_uss/en)
+- [uPic configuration - Qiniu](../tutorials/qiniu_kodo/en)
+- [uPic configuration - Aliyun](../tutorials/aliyun_oss/en)
+- [uPic configuration - Tencent Cloud](../tutorials/tencent_cos/en)
+- [uPic configuration - Amazon S3](../tutorials/amazon_s3/en)
+- [uPic configuration - Github](../tutorials/github/en)
+- [uPic configuration - Gitee(Gitee)](../tutorials/gitee/en)
+- [uPic configuration - Imgur](../tutorials/imgur/en)
+- [uPic configuration - Custom upload](../tutorials/custom/en)
 
 ## 💌 Contact information
 
@@ -162,5 +163,3 @@ brew cask install upic
 - [@m01i0ng](https://github.com/m01i0ng)
 - [@Jackxun123](https://github.com/Jackxun123)
 - [@kkkkkkyrie](https://github.com/kkkkkkyrie)
-
-
