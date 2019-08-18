@@ -22,11 +22,11 @@ sidebar:
 
 ## 🔑 Client ID 获取方式
 
-- 1.打开[Imgur 官网并登陆](https://imgur.com/)
-- 2.进入[应用注册页面](https://api.imgur.com/oauth2/addclient)
+- 1.打开[Imgur 官网](https://imgur.com/)并登陆
+- 2.进入[应用注册](https://api.imgur.com/oauth2/addclient)页面
 - 3.按要求填写表单信息
-- 4.注意`Authorization type`选项需要选择`OAuth 2 authorization without a callback URL`
-  ![创建 Application](https://gitee.com/gee1k/oss/raw/master/tutorials/imgur-application.png)
+- 4.注意`Authorization type`选项必须选择`OAuth 2 authorization without a callback URL`
+  ![注册 Application](https://gitee.com/gee1k/oss/raw/master/tutorials/imgur-application.png)
 - 5.复制生成好的 Client ID 值到 uPic Client ID 输入框并保存
   ![复制 Client ID](https://gitee.com/gee1k/oss/raw/master/tutorials/imgur-client-id.png)
 - 6.在菜单栏中选择刚刚添加的 Imgur 上传图片试试吧

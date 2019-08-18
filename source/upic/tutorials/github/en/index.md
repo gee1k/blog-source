@@ -1,5 +1,5 @@
 ---
-title: uPic image hosting configuration - Github
+title: uPic tutorial - Github
 date: 2019-07-01 21:03:43
 toc: true
 widgets:
