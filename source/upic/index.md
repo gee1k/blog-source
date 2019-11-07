@@ -15,7 +15,7 @@ sidebar:
 <div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/logo.png" alt="uPic">
+  <img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/logo.png" alt="uPic">
 </div>
 
 # ☁️ 简洁的 Mac 图床客户端 uPic
@@ -62,7 +62,7 @@ brew cask install upic
 - 2.打开`系统偏好设置` - `扩展` - `访达扩展` 确保 `uPicFinderExtension`是勾选状态
 
   <center>
-    <img src="https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/finder-extension.png" height="300">
+    <img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/finder-extension.png" height="300">
   </center>
 
 
@@ -71,12 +71,12 @@ brew cask install upic
 
 | 功能 | 描述 | 预览 |
 | --- | --- | --- |
-| **🖥 选择文件上传** | 从`Finder`选择文件上传 | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/selectFile.gif) |
-| **⌨️ 复制文件上传** | 上传已拷贝到剪切板的文件 | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/paste.gif) |
-| **🖱 拖拽本地文件上传** | 拖拽文件到状态栏上传 | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/drag-finder.gif) |
-| **🖱 拖拽浏览器图片上传** | 从浏览器拖拽图片到状态栏上传 | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/drag-browser.gif) |
-| **📸 截图上传** | 直接拉框截图上传 | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/screenshot.gif) |
-| **📂 Finder 中右键上传** | 右击文件上传 | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/finder-contextmenu.gif) |
+| **🖥 选择文件上传** | 从`Finder`选择文件上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/selectFile.gif) |
+| **⌨️ 复制文件上传** | 上传已拷贝到剪切板的文件 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/paste.gif) |
+| **🖱 拖拽本地文件上传** | 拖拽文件到状态栏上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/drag-finder.gif) |
+| **🖱 拖拽浏览器图片上传** | 从浏览器拖拽图片到状态栏上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/drag-browser.gif) |
+| **📸 截图上传** | 直接拉框截图上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/screenshot.gif) |
+| **📂 Finder 中右键上传** | 右击文件上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/finder-contextmenu.gif) |
 
 
 
@@ -87,14 +87,14 @@ brew cask install upic
 <details><summary>1. ⌨︎ 全局快捷键</summary><br>
 <p>
 	<center>
-		<img src="https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/shortcuts.png" height="300">
+		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/shortcuts.png" height="300">
 	</center>
 </p>
 </details>
 <details><summary>2. 🕦 上传历史</summary><br>
 <p>
 	<center>
-		<img src="https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/history.png" height="300">
+		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/history.png" height="300">
 	</center>
 </p>
 </details>
@@ -115,7 +115,7 @@ brew cask install upic
 	<summary>3.为什么我配置了图床，图片/文件却没有上传到我的图床中</summary>
 	<div>
 		<p>配置好的图床可以在菜单栏`图床`中选择。选中的图床就是您接下来文件会上传到的图床</p>
-		<img src="https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/default-host.png" width="450">
+		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/default-host.png" width="450">
 	</div> 
 </details>
 
@@ -140,7 +140,7 @@ brew cask install upic
 - `uPic 产品交流群(Telegram)`:  [点击加入 TG 群](https://t.me/upic_host)
 - `微信群`:  <small>扫描下方二维码加好友拉你入群 ↓ </small>
 
-	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200">
+	<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/personal/geee1k.JPG" height="200">
 
 ## 🤙 特别感谢
 

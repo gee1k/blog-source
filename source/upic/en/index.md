@@ -16,7 +16,7 @@ sidebar:
 <div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/logo.png" alt="uPic">
+  <img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/logo.png" alt="uPic">
 </div>
 
 # ☁️ Terse image hosting client for Mac
@@ -65,7 +65,7 @@ brew cask install upic
 - 2.Open`system preference` - `extensions` - `Finder Extensions` make sure that `uPicFinderExtension` is be selected
 
   <center>
-    <img src="https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/en-finder-extension.png" height="300">
+    <img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-finder-extension.png" height="300">
   </center>
 
 
@@ -74,12 +74,12 @@ brew cask install upic
 
 | function | description | previewing |
 | --- | --- | --- |
-| **🖥 Pick** | choose file from `Finder` | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/en-selectFile.gif) |
-| **⌨️ Copy** | uploud file from clipboard | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/en-paste.gif) |
-| **🖱 Drag local file** | drag file to status bar | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/en-drag-finder.gif) |
-| **🖱 Drag from browser** | drag image to status bar from browser | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/en-drag-browser.gif) |
-| **📸 Screenshot** | capture a screenshot | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/en-screenshot.gif) |
-| **📂 Right click** | right click to upload | ![](https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/en-finder-contextmenu.gif) |
+| **🖥 Pick** | choose file from `Finder` | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-selectFile.gif) |
+| **⌨️ Copy** | uploud file from clipboard | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-paste.gif) |
+| **🖱 Drag local file** | drag file to status bar | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-drag-finder.gif) |
+| **🖱 Drag from browser** | drag image to status bar from browser | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-drag-browser.gif) |
+| **📸 Screenshot** | capture a screenshot | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-screenshot.gif) |
+| **📂 Right click** | right click to upload | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-finder-contextmenu.gif) |
 
 
 
@@ -90,14 +90,14 @@ brew cask install upic
 <details><summary>1. ⌨︎ Global shortcut key</summary><br>
 <p>
 	<center>
-		<img src="https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/en-shortcuts.png" height="300">
+		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-shortcuts.png" height="300">
 	</center>
 </p>
 </details>
 <details><summary>2. 🕦 Upload history</summary><br>
 <p>
 	<center>
-		<img src="https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/en-history.png" height="300">
+		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-history.png" height="300">
 	</center>
 </p>
 </details>
@@ -131,7 +131,7 @@ brew cask install upic
 	<summary>3.Why I finished configuration of image hosting already,image/file upload failed?</summary>
 	<div>
 		<p>maybe you choose the wrong image hosting,go to check it out~</p>
-		<img src="https://raw.githubusercontent.com/gee1k/oss/master/screenshot/uPic/en-default-host.png" width="450">
+		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-default-host.png" width="450">
 	</div> 
 </details>
 
@@ -157,7 +157,7 @@ brew cask install upic
 - `uPic chat group(Telegram)`:  [click here to join in](https://t.me/upic_host)
 - `Wechat group`:  <small>scan the QR code below to join in ↓ </small>
 
-	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200">
+	<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/personal/geee1k.JPG" height="200">
 
 ### Translators
 - [@m01i0ng](https://github.com/m01i0ng)

@@ -45,7 +45,7 @@ sidebar:
 <hr>
 ## 💌 Our Wechat group
   <small>Scan the qrcode to join the group ↓ </small>
-​	<img src="https://raw.githubusercontent.com/gee1k/oss/master/personal/geee1k.JPG" height="200" style="height:200px">
+​	<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/personal/geee1k.JPG" height="200" style="height:200px">
 
 <hr>
 
