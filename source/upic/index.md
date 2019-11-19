@@ -126,6 +126,7 @@ brew cask install upic
 - [uPic 图床配置教程 - 七牛云](./tutorials/qiniu_kodo)
 - [uPic 图床配置教程 - 阿里云](./tutorials/aliyun_oss)
 - [uPic 图床配置教程 - 腾讯云](./tutorials/tencent_cos)
+- [uPic 图床配置教程 - 百度云](./tutorials/baidu_bos)
 - [uPic 图床配置教程 - Amazon S3](./tutorials/amazon_s3)
 - [uPic 图床配置教程 - Github](./tutorials/github)
 - [uPic 图床配置教程 - 码云(Gitee)](./tutorials/gitee)

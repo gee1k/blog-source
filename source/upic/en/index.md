@@ -143,6 +143,7 @@ brew cask install upic
 - [uPic configuration - Qiniu](../tutorials/qiniu_kodo/en)
 - [uPic configuration - Aliyun](../tutorials/aliyun_oss/en)
 - [uPic configuration - Tencent Cloud](../tutorials/tencent_cos/en)
+- [uPic configuration - Baidu Cloud](../tutorials/baidu_bos/en)
 - [uPic configuration - Amazon S3](../tutorials/amazon_s3/en)
 - [uPic configuration - Github](../tutorials/github/en)
 - [uPic configuration - Gitee(Gitee)](../tutorials/gitee/en)
