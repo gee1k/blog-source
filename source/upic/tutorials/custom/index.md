@@ -25,10 +25,9 @@ sidebar:
 - `请求头`: Request Headers。点击`其他字段`按钮进行配置
 - `URL 路径`: 上传完成返回的 JSON 中图片 URL 的获取路径。[获取规则](#URL-获取规则)
 - `域名`: 上传过后，访问服务器文件的 URL。
-- `更多设置`: `域名`后面设置按钮可以弹出详细的文件访问 URL 配置，可额外配置储存文件夹路径和文件名规则。
+- `保存路径`: 文件储存的路径（包括文件夹）。 `支持 {year} {month} {day} {hour} {minute} {second} {since_second} {since_millisecond} {random} {filename} {.suffix} 等变量。比如：上传的图片为 uPic.jpg，设定为 “uPic/{filename}{.suffix}”，则会保存到 “uPic/uPic.jpg”。`
+- 在`保存路径`输入框后面的是`网址后缀`: 可以用于自定义图片处理。
 ![其他字段](https://gitee.com/gee1k/oss/raw/master/tutorials/custom-host-extension-field.png)
-
-![扩展配置](https://gitee.com/gee1k/oss/raw/master/tutorials/custom-host-extension.png)
 
 <hr>
 

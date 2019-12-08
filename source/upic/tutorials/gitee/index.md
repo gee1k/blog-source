@@ -23,9 +23,7 @@ sidebar:
 - `分支`: 分支名称，默认是`master`。必须先创建好对应分支，才能使用
 - `Token`: 码云的私人令牌
 - `域名`: 默认可不设置域名，会使用码云默认的访问地址。当你的仓库开启了`pages`功能，并配置好了自定义域名时，这里就可以使用你的自定义域名
-- `更多设置`: `域名`后面设置按钮可以弹出详细的文件访问 URL 配置，可额外配置储存文件夹路径和文件名规则。
-
-![扩展配置](https://gitee.com/gee1k/oss/raw/master/tutorials/gitee-host-extension.png)
+- `保存路径`: 文件储存的路径（包括文件夹）。 `支持 {year} {month} {day} {hour} {minute} {second} {since_second} {since_millisecond} {random} {filename} {.suffix} 等变量。比如：上传的图片为 uPic.jpg，设定为 “uPic/{filename}{.suffix}”，则会保存到 “uPic/uPic.jpg”。`
 
 ## 🔑 Token 获取方式
 

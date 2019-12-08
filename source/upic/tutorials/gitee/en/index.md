@@ -24,9 +24,7 @@ sidebar:
 - `Branch`: The name of branch,`master` is the name of Branch by default,if you want to upload to others,please establish first.
 - `Token`: Gitee personal access tokens.
 - `Domain`: Domain names are not set by default and will use your Gitee default URL.When you make the Rpeo's function of `pages` available and set up custom domain,you can use your own domain now.
-- `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
-
-![more config](https://gitee.com/gee1k/oss/raw/master/tutorials/gitee-host-extension.png)
+- `Save Key`: The path to file storage (including folders). `Supports {year} {month} {day} {hour} {minute} {second} {since_second} {since_millisecond} {random} {filename} {.suffix} and etc. For example, the uploaded file is uPic.jpg, set to \"uPic/{filename}{.suffix}\", it will be saved as: uPic/uPic.jpg.`
 
 ## 🔑 Get Token
 

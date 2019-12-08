@@ -24,9 +24,8 @@ sidebar:
 - `Access Key`: The Access Key of Amazon S3. [Example](#🔑-The-Secret-AccessKey-ID、Access-Key-Secret)
 - `Secret Key`: The Secret Key of Amazon S3. [Example](#🔑-The-Secret-AccessKey-ID、Access-Key-Secret)
 - `Domain`: Amazon S3 has default domain names. don't have to
-- `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
-  - `Suffix`: For custom image processing. Amazon S3 is not currently supported, so reserve it first
-    ![extension config](https://gitee.com/gee1k/oss/raw/master/tutorials/amazon_s3-host-extension.png)
+- `Save Key`: The path to file storage (including folders). `Supports {year} {month} {day} {hour} {minute} {second} {since_second} {since_millisecond} {random} {filename} {.suffix} and etc. For example, the uploaded file is uPic.jpg, set to \"uPic/{filename}{.suffix}\", it will be saved as: uPic/uPic.jpg.`
+- `The after Save Key input is Suffix`: For custom image processing. Amazon S3 is not currently supported, so reserve it first.
 
 ## 🧰 Region/bucket/domain
 

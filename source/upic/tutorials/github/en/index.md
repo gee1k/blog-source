@@ -25,16 +25,9 @@ sidebar:
 - `Branch`: `master` is the name of Branch by default,if you want to upload to others,please establish first.
 - `Token`: Github personal access tokens.
 - `Domain`: You can't set domian name by default and will use your Github default URL.When you make the Rpeo's function of `pages` available and set up custom domain,you can use your own domain now.
-  -  Uploaded resources can be accelerated for free using `jsdelivr` CDN. The `domain name` input box uses the following configuration to automatically get the accelerated address of `jsdelivr`
-    ```
-    https://cdn.jsdelivr.net/gh/{Owner}/{Repo}@{Branch}/
-    eg:
-    https://cdn.jsdelivr.net/gh/gee1k/oss@master/
-    ```
-  
-- `Other configuration`: At the end of `Domain`,click the "gear" button will pop up detailed configuration of the URL which control file access.You can set up the path of file folders or the naming rule of files.
+  -  `Use the default CDN to speed access`: When checked, `jsdelivr` CDN is automatically used for accelerated access
+- `Save Key`: The path to file storage (including folders). `Supports {year} {month} {day} {hour} {minute} {second} {since_second} {since_millisecond} {random} {filename} {.suffix} and etc. For example, the uploaded file is uPic.jpg, set to \"uPic/{filename}{.suffix}\", it will be saved as: uPic/uPic.jpg.`
 
-![扩展配置](https://gitee.com/gee1k/oss/raw/master/tutorials/githug-host-extension.png)
 
 ## 🔑 Token - How can I get it
 

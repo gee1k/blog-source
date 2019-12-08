@@ -29,10 +29,9 @@ sidebar:
 - `Request header`: Request Headers。Click the `other field` buttons to configure
 - `URL path`: The path to get the image URL in the JSON returned by the upload.[Rule of get URL](#Rule-of-get-URL)
 - `Domain`: After uploading, access the URL of the server file.
-- `more`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
+- `Save Key`: The path to file storage (including folders). `Supports {year} {month} {day} {hour} {minute} {second} {since_second} {since_millisecond} {random} {filename} {.suffix} and etc. For example, the uploaded file is uPic.jpg, set to \"uPic/{filename}{.suffix}\", it will be saved as: uPic/uPic.jpg.`
+- `The after Save Key input is Suffix`: This will be used for custom picture processor. 
   ![custom-host-extension-field](https://gitee.com/gee1k/oss/raw/master/tutorials/custom-host-extension-field.png)
-
-![custom-host-extension](https://gitee.com/gee1k/oss/raw/master/tutorials/custom-host-extension.png)
 
 <hr>
 

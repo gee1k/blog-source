@@ -24,9 +24,8 @@ sidebar:
 - `Access Key`: The Access Key of baidu cloud. [Example](#🔑-The-Secret-AccessKey-ID、Access-Key-Secret)
 - `Secret Key`: The Secret Key of baidu cloud. [Example](#🔑-The-Secret-AccessKey-ID、Access-Key-Secret)
 - `Domain`: You can custom your domain or use the default domain for test provided by baidu cloud, can be found in baidu cloud's control panel.`Domain must start with http:// or https://`.[Example](#🧰-Region-bucket-domain)
-- `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
-  - `Suffix`: For custom image processing. There can be configured `image processing domain name rules` in baidu cloud. For example, if the rule name is `w` to identify the watermark version and the separator is `!`, you can fill in the URL suffix `!w`. After each uploaded image generation connection will be appended with `-w`, that is, to access the watermark version.
-  - ![extension](https://gitee.com/gee1k/oss/raw/master/tutorials/baidu-host-extension.png)
+- `Save Key`: The path to file storage (including folders). `Supports {year} {month} {day} {hour} {minute} {second} {since_second} {since_millisecond} {random} {filename} {.suffix} and etc. For example, the uploaded file is uPic.jpg, set to \"uPic/{filename}{.suffix}\", it will be saved as: uPic/uPic.jpg.`
+- `The after Save Key input is Suffix`: For custom image processing. There can be configured `image processing rules` in baidu cloud. For example, if the rule name is w to identify the watermark version and the separator is !, you can fill in the URL suffix !w. After each uploaded image generation connection will be appended with -w, that is, to access the watermark version.
 
 ## 🧰 Region/bucket/domain
 

@@ -23,9 +23,8 @@ sidebar:
 - `SecretId`: SecretId provided by tencent cloud. [Example](#🔑-Secret-SecretId、SecretKey)
 - `SecretKey`: Secret Key provided by tencent cloud. [Example](#🔑-Secret-SecretId、SecretKey)
 - `Domain`: You can custom your domain or use the default domain for testing provided by tencent cloud which can be found in tencent cloud's control panel. `Domain must start with http:// or https://`. [Example](#🧰-Region-bucket-domain)
-- `More`: By clicking setting button after `Domain`, you can custom url/folder/patterns to access picture.
-  - `Suffix`: This will be used for custom picture processor. Remain to be completed since tencent cloud doesn't support this function now.
-  ![Extra](https://gitee.com/gee1k/oss/raw/master/tutorials/tencent-host-extension.png)
+- `Save Key`: The path to file storage (including folders). `Supports {year} {month} {day} {hour} {minute} {second} {since_second} {since_millisecond} {random} {filename} {.suffix} and etc. For example, the uploaded file is uPic.jpg, set to \"uPic/{filename}{.suffix}\", it will be saved as: uPic/uPic.jpg.`
+- `The after Save Key input is Suffix`: For custom image processing. Tentcent COS is not currently supported, so reserve it first.
 
 ## 🧰 Region/bucket/domain
 
