@@ -65,75 +65,32 @@ brew cask install upic
 - 2.Open`system preference` - `extensions` - `Finder Extensions` make sure that `uPicFinderExtension` is be selected
 
   <center>
-    <img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-finder-extension.png" height="300">
+    <img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-en/finder-extension.png" height="300">
   </center>
 
 
 
 ## 🕹 How to use it
 
-| function | description | previewing |
-| --- | --- | --- |
-| **🖥 Pick** | choose file from `Finder` | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-selectFile.gif) |
-| **⌨️ Copy** | uploud file from clipboard | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-paste.gif) |
-| **🖱 Drag local file** | drag file to status bar | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-drag-finder.gif) |
-| **🖱 Drag from browser** | drag image to status bar from browser | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-drag-browser.gif) |
-| **📸 Screenshot** | capture a screenshot | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-screenshot.gif) |
-| **📂 Right click** | right click to upload | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-finder-contextmenu.gif) |
+| Upload method | Description | Preview |
+| ------------- | ----------- | ------- |
+| **🖥 Select files** |  Select the file to upload from `Finder`.  `Can set global shortcuts`  | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-en/selectFile.gif) |
+| **⌨️ Copy file upload** | Upload a file that has been copied to the clipboard.  `Can set global shortcuts` | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-en/pasteboard.gif) |
+| **📸 Screenshot upload** | Directly pull frame screenshot upload.  `Can set global shortcuts` | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-en/screenshot.gif) |
+| **🖱 Drag and drop local file upload** | Drag and drop files to the status bar to upload | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-en/dragFile.gif) |
+| **🖱 Drag and drop browser image upload** | Drag image from browser to status bar to upload | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-en/dragFromBrowser.gif) |
+| **📂 Finder contextmenu upload** | Right click on file upload | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-en/contextmenu.gif) |
+| **⌨️ Command line upload** | Invoke uPic to upload files by executing commands | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-en/cli.gif) |
 
 
 
 ## 🧰 More Functions
 
-**Except these basic functions,uPic also provides a series of small features to improve user experience.**
+### 1. Global shortcut key
+<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-en/shortcuts.png" height="300">
 
-<details><summary>1. ⌨︎ Global shortcut key</summary><br>
-<p>
-	<center>
-		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-shortcuts.png" height="300">
-	</center>
-</p>
-</details>
-<details><summary>2. 🕦 Upload history</summary><br>
-<p>
-	<center>
-		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-history.png" height="300">
-	</center>
-</p>
-</details>
-<details><summary>3. 📢 More functions are waiting for you to check it out</summary><br>
-<p>
-	...
-</p>
-</details>
-
-
-## ❓ FAQ
-
-<details>
-	<summary>1.How to configurate image hosting❓</summary>
-	<ul>
-		<li><a href="https://blog.svend.cc/upic/tutorials/weibo/en" target="_blank">uPic configuration - Weibo</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/upyun_uss/en" target="_blank">uPic configuration - UPYUN</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/qiniu_kodo/en" target="_blank">uPic configuration - Qiniu</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/aliyun_oss/en" target="_blank">uPic configuration - Aliyun</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/tencent_cos/en" target="_blank">uPic configuration - TencentCloud</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/amazon_s3/en" target="_blank">uPic configuration - Amazon S3</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/github/en" target="_blank">uPic configuration - Github</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/gitee/en" target="_blank">uPic configuration - Gitee(Gitee)</a></li>
-		<li><a href="https://blog.svend.cc/upic/tutorials/custom/en" target="_blank">uPic configuration - custom upload</a></li>
-	</ul>
-</details>
-<details><summary>2. Finder extension doesn't work❓</summary><br>
-<p>Because of Finder extension will always be selected after select action was done.So if you come across Finder extension operation is unresponsive,maybe uPic program was not runing.</p>
-</details>
-<details>
-	<summary>3.Why I finished configuration of image hosting already,image/file upload failed?</summary>
-	<div>
-		<p>maybe you choose the wrong image hosting,go to check it out~</p>
-		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/en-default-host.png" width="450">
-	</div> 
-</details>
+### 2. Upload history
+<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-en/history.png" height="300">
 
 
 ## 📝 Tutorials

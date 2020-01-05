@@ -62,7 +62,7 @@ brew cask install upic
 - 2.打开`系统偏好设置` - `扩展` - `访达扩展` 确保 `uPicFinderExtension`是勾选状态
 
   <center>
-    <img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/finder-extension.png" height="300">
+    <img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-cn/finder-extension.png" height="300">
   </center>
 
 
@@ -71,53 +71,23 @@ brew cask install upic
 
 | 功能 | 描述 | 预览 |
 | --- | --- | --- |
-| **🖥 选择文件上传** | 从`Finder`选择文件上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/selectFile.gif) |
-| **⌨️ 复制文件上传** | 上传已拷贝到剪切板的文件 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/paste.gif) |
-| **🖱 拖拽本地文件上传** | 拖拽文件到状态栏上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/drag-finder.gif) |
-| **🖱 拖拽浏览器图片上传** | 从浏览器拖拽图片到状态栏上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/drag-browser.gif) |
-| **📸 截图上传** | 直接拉框截图上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/screenshot.gif) |
-| **📂 Finder 中右键上传** | 右击文件上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/finder-contextmenu.gif) |
+| **🖥 选择文件上传** | 从`Finder`选择文件上传。`可设置全局快捷键` | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-cn/selectFile.gif) |
+| **⌨️ 复制文件上传** | 上传已拷贝到剪切板的文件。`可设置全局快捷键` | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-cn/pasteboard.gif) |
+| **📸 截图上传** | 直接拉框截图上传。`可设置全局快捷键` | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-cn/screenshot.gif) |
+| **🖱 拖拽本地文件上传** | 拖拽文件到状态栏上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-cn/dragFile.gif) |
+| **🖱 拖拽浏览器图片上传** | 从浏览器拖拽图片到状态栏上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-cn/dragFromBrowser.gif) |
+| **📂 Finder 中右键上传** | 右击文件上传 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-cn/contextmenu.gif) |
+| **⌨️ 命令行上传** | 通过执行命令调用 uPic 上传文件 | ![](https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-cn/cli.gif) |
 
 
 
 ## 🧰 更多功能
 
-**除了以上这些最基本的功能以外，uPic 还提供了一系列小功能让你使用起来更方便更顺心**
+### 1.全局快捷键
+<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-cn/shortcuts.png" height="300">
 
-<details><summary>1. ⌨︎ 全局快捷键</summary><br>
-<p>
-	<center>
-		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/shortcuts.png" height="300">
-	</center>
-</p>
-</details>
-<details><summary>2. 🕦 上传历史</summary><br>
-<p>
-	<center>
-		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/history.png" height="300">
-	</center>
-</p>
-</details>
-<details><summary>3. 📢 更多功能等待你发现</summary><br>
-<p>
-	...
-</p>
-</details>
-
-
-
-## ❓ 常见问题
-
-<details><summary>2. Finder 扩展不工作了❓</summary><br>
-<p>由于 Finder 扩展是只要加上之后会一直都存在，所以当你遇到 Finder 扩展操作无反应的时候，可能是 uPic 主程序没有打开</p>
-</details>
-<details>
-	<summary>3.为什么我配置了图床，图片/文件却没有上传到我的图床中</summary>
-	<div>
-		<p>配置好的图床可以在菜单栏`图床`中选择。选中的图床就是您接下来文件会上传到的图床</p>
-		<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic/default-host.png" width="450">
-	</div> 
-</details>
+### 2. 上传历史
+<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/screenshot/uPic-cn/history.png" height="300">
 
 ## 📝 使用手册
 
