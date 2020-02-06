@@ -72,14 +72,14 @@ search:
     type: insight
 # Comment plugin settings
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment
-comment:
+#comment:
     # Name of the comment plugin
-    type: gitalk
-    owner: gee1k
-    repo: blog-comment
-    client_id: a9aa650da65bc9a05403
-    client_secret: 9c1d788e7d1e2fc5229bdc5bfb44b6ca35262625
-    admin: ['gee1k']
+#    type: gitalk
+#    owner: gee1k
+#    repo: blog-comment
+#    client_id: a9aa650da65bc9a05403
+#    client_secret: 9c1d788e7d1e2fc5229bdc5bfb44b6ca35262625
+#    admin: ['gee1k']
 # Donation entries
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Donation/
 donate:
