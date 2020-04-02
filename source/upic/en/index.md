@@ -106,6 +106,7 @@ brew cask install upic
 - [uPic configuration - Gitee(Gitee)](../tutorials/gitee/en)
 - [uPic configuration - Imgur](../tutorials/imgur/en)
 - [uPic configuration - Custom upload](../tutorials/custom/en)
+- [uPic configuration - Chevereto](../tutorials/chevereto/en)
 
 ## 💌 Contact information
 

@@ -102,6 +102,7 @@ brew cask install upic
 - [uPic 图床配置教程 - 码云(Gitee)](./tutorials/gitee)
 - [uPic 图床配置教程 - Imgur](./tutorials/imgur)
 - [uPic 图床配置教程 - 自定义上传](./tutorials/custom)
+- [uPic 图床配置教程 - Chevereto](./tutorials/chevereto)
 
 ## 💌 联系我
 
