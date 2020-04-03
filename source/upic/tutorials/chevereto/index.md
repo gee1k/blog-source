@@ -44,8 +44,6 @@ sidebar:
 
 ![扩展配置](https://gitee.com/gee1k/oss/raw/master/tutorials/chevereto_host_extension.jpg)
 
-https://img.zhaobo.li:9443/api/1/upload
-
 <hr>
 
 ## 💌 微信交流群
