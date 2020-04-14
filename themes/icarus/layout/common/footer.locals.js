@@ -5,6 +5,7 @@ module.exports = (ctx, locals) => {
         author: get_config('author'),
         logo: get_config('logo'),
         busuanzi: get_config('plugins.busuanzi', false),
-        links: get_config('footer.links', [])
+        links: get_config('footer.links', []),
+        upyun_logo: get_config('upyun_logo')
     });
 }
