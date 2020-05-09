@@ -1,7 +1,9 @@
 ---
+layout: false
 title: Privacy Policy
 date: 2020-04-29
 type: "privacy"
+layout: false
 ---
 
 Privacy Policy
