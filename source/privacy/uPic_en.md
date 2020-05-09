@@ -1,3 +1,9 @@
+---
+title: Privacy Policy
+date: 2020-04-29
+type: "privacy"
+---
+
 Privacy Policy
 
 **Effective Date: 2020-04-29**
