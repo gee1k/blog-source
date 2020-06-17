@@ -9,9 +9,9 @@ Privacy Policy
 
 **Effective Date: 2020-04-29**
 
-uPic (and "we", "our" or "this app" mentioned below) are web products provided by Svend Jin.
+UploadPicture (and "we", "our" or "this app" mentioned below) are web products provided by Svend Jin.
 
-Product name: uPic
+Product name: UploadPicture
 
 Product category: app
 
@@ -19,7 +19,7 @@ If you decide to use the services provided by our products, this agreement is us
 
 **If you choose to use the services we provide, you agree to this policy.** 
 
-Unless otherwise specified in this privacy policy, the terms used in this privacy policy have the same meaning as our terms and conditions and can be accessed in uPic.
+Unless otherwise specified in this privacy policy, the terms used in this privacy policy have the same meaning as our terms and conditions and can be accessed in UploadPicture.
 
 ### 1. Gather information
 
