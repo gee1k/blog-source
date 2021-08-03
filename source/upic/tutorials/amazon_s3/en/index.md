@@ -45,10 +45,3 @@ sidebar:
 - It is recommended to use Amazon's [IAM](https://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html) to create AccessKey ID and AccessKey Secret. Can better set key permissions, more secure
 
 <hr>
-
-## 💌 Our Wechat group
-
-  <small>↓scan the QR code below and join in the group!↓ </small>
-	<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/personal/geee1k.JPG" height="200" style="height:200px">
-
-<hr>

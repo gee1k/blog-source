@@ -42,9 +42,3 @@ sidebar:
 - 推荐使用 Amazon 的 [IAM](https://docs.aws.amazon.com/zh_cn/IAM/latest/UserGuide/introduction.html) 来创建 AccessKey ID、Access Key Secret。可更好的设置密钥权限，更为安全
 
 <hr>
-
-## 💌 微信交流群
-  <small>扫描下方二维码加好友拉你入群 ↓ </small>
-	<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/personal/geee1k.JPG" height="200" style="height:200px">
-
-<hr>

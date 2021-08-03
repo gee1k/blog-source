@@ -34,9 +34,3 @@ sidebar:
 > 下次可直接在[应用列表](https://imgur.com/account/settings/apps)里找到 ClientID
 
 <hr>
-
-## 💌 微信交流群
-  <small>扫描下方二维码加好友拉你入群 ↓ </small>
-	<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/personal/geee1k.JPG" height="200" style="height:200px">
-
-<hr>

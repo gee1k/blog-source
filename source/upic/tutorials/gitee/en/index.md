@@ -45,9 +45,3 @@ sidebar:
 ![bingo](https://gitee.com/gee1k/oss/raw/master/tutorials/gitee-result.png)
 
 <hr>
-## 💌 Our Wechat group
-
-  <small>↓scan the QR code below and join in the group!↓</small>
-	<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/personal/geee1k.JPG" height="200" style="height:200px">
-
-<hr>

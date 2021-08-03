@@ -47,9 +47,3 @@ sidebar:
 > Either method is ok, you can choose the one you favorite.
 
 <hr>
-
-## 💌 Our Wechat group
-  <small>Scan the qrcode to join the group ↓ </small>
-	<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/personal/geee1k.JPG" height="200" style="height:200px">
-
-<hr>

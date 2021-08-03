@@ -96,11 +96,4 @@ sidebar:
 > Both the extended fields and the request headers support the following dynamic templates to get dynamic values
 
 - `{filename}`：Will be dynamically replaced with the file name at the time of upload
-
-## 💌 Our Wechat group
-
-  <small>↓scan the QR code below and join in the group!↓ </small>
-	<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/personal/geee1k.JPG" height="200" style="height:200px">
-
-<hr>
 ```

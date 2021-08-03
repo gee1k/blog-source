@@ -114,9 +114,6 @@ brew cask install upic
 - `Telegram`: [gee1k](https://t.me/gee1k)
 - `Github`: [Github](https://github.com/gee1k/uPic)
 - `uPic chat group(Telegram)`:  [click here to join in](https://t.me/upic_host)
-- `Wechat group`:  <small>scan the QR code below to join in ↓ </small>
-
-	<img src="https://cdn.jsdelivr.net/gh/gee1k/oss@master/personal/geee1k.JPG" height="200">
 
 ### Translators
 - [@m01i0ng](https://github.com/m01i0ng)
