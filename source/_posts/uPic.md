@@ -93,6 +93,5 @@ uPic 还支持多种常用的输出格式，并且提供上传前图片压缩功
 
 
 ## 结束语
-目前 uPic 已在 [Gtihub](https://github.com/gee1k/uPic) 开源，👏 欢迎大家下载尝试。 🤓 期待您的建议与反馈！
+目前 uPic 已上架在 [AppStore](https://apps.apple.com/cn/app/id1549159979) ，👏 欢迎大家下载尝试。 🤓 期待您的建议与反馈！
 可在 [微博](https://weibo.com/gee1k)、[Twitter](https://twitter.com/geee1k)或[TG](https://t.me/gee1k)上联系我。
-更多信息和联系方式可在 [Github](https://github.com/gee1k/uPic) 上查看。
