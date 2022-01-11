@@ -49,7 +49,7 @@ sidebar:
 ### 下载安装
 #### 1.Homebrew:
 ```
-brew cask install upic
+brew install bigwig-club/brew/upic --cask
 ```
 #### 2.手动
 从 [Github release](https://github.com/gee1k/uPic/releases) 下载。

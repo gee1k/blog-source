@@ -52,7 +52,7 @@ sidebar:
 ### 1.Homebrew:
 
 ``` bash
-brew cask install upic
+brew install bigwig-club/brew/upic --cask
 ```
 ### 2.Download from github
  click [release](https://github.com/gee1k/uPic/releases) to download.
