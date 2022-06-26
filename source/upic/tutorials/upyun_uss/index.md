@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div><!-- i18n -->
 
-![又拍云配置](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-host.png)
+![又拍云配置](https://qiniu.svend.cc/tutorials/upyun-host.png)
 
 ## 📝 配置项说明
 
@@ -28,10 +28,10 @@ sidebar:
 ## 🧰 空间名称、域名信息获取
 
 **进入 [云存储](https://console.upyun.com/services/file/) 控制台查看**
-![又拍云控制台](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-info.png)
+![又拍云控制台](https://qiniu.svend.cc/tutorials/upyun-info.png)
 
 ## 🔑 操作人员配置
 
-![操作人员配置](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-operator.png)
+![操作人员配置](https://qiniu.svend.cc/tutorials/upyun-operator.png)
 
 <hr>

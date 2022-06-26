@@ -13,7 +13,7 @@ sidebar:
 ---
 <hr><!-- i18n --><div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div><!-- i18n -->
 
-![微博配置界面](https://gitee.com/gee1k/oss/raw/master/tutorials/weibo-host.png)
+![微博配置界面](https://qiniu.svend.cc/tutorials/weibo-host.png)
 
 ## 📝 配置项说明
 
@@ -30,7 +30,7 @@ sidebar:
 
 > 当选择 Cookie 模式时才需要手动获取哦
 
-![获取 Cookie](https://gitee.com/gee1k/oss/raw/master/tutorials/weibo-get-cookie.png)
+![获取 Cookie](https://qiniu.svend.cc/tutorials/weibo-get-cookie.png)
 
 - 1.在 PC 浏览器上登录微博，打开 <a href="https://weibo.com/minipublish" target="_blank">minipublish 页面</a>。`原因是因为这个页面内容少，请求数量比较少，更容易找 Cookie`
 - 2.打开开发者工具`command + option + i`，选择 `Network` 栏

@@ -32,7 +32,7 @@ sidebar:
 - `URL Path`: `['image', 'url']`
 
 
-![Basic configuration](https://gitee.com/gee1k/oss/raw/master/tutorials/chevereto_host_en.jpg)
+![Basic configuration](https://qiniu.svend.cc/tutorials/chevereto_host_en.jpg)
 
 ## Extension configuration
 
@@ -43,6 +43,6 @@ sidebar:
 - `key`: `[API Key]`
 - `action`: `upload`
 
-![Extension configuration](https://gitee.com/gee1k/oss/raw/master/tutorials/chevereto_host_extension_en.jpg)
+![Extension configuration](https://qiniu.svend.cc/tutorials/chevereto_host_extension_en.jpg)
 
 <hr>

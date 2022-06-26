@@ -15,7 +15,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
 
-![baidu cloud configuration](https://gitee.com/gee1k/oss/raw/master/tutorials/baidu-host.png)
+![baidu cloud configuration](https://qiniu.svend.cc/tutorials/baidu-host.png)
 
 ## 📝 Options instruction
 
@@ -32,13 +32,13 @@ sidebar:
 **View it by entering  [Cloud storage](https://console.bce.baidu.com/bos) console panel**
 
 `Pay attention here!! Your bucket permission must be set Public Read, otherwise the picture couldn't be access via uel. Configure it carefully by enter this link.`
-![baidu cloud console](https://gitee.com/gee1k/oss/raw/master/tutorials/baidu-info.jpg)
+![baidu cloud console](https://qiniu.svend.cc/tutorials/baidu-info.jpg)
 
 
 
 ## 🔑 The Secret(AccessKey ID、Access Key Secret)
 
 **View it by entering personal info  [User information management](https://console.bce.baidu.com/iam/#/iam/accesslist) console panel**
-![AccessKey](https://gitee.com/gee1k/oss/raw/master/tutorials/baidu-ak.jpg)
+![AccessKey](https://qiniu.svend.cc/tutorials/baidu-ak.jpg)
 
 <hr>

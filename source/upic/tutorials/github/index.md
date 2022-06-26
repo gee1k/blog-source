@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div><!-- i18n -->
 
-![Github 配置](https://gitee.com/gee1k/oss/raw/master/tutorials/github-host.png)
+![Github 配置](https://qiniu.svend.cc/tutorials/github-host.png)
 
 ## 📝 配置项说明
 
@@ -30,15 +30,15 @@ sidebar:
 
 - 1.进入[Github Token 创建页面](https://github.com/settings/tokens/new)
 - 2.勾选 `repo` 访问权限。然后滚动页面到底部，点击`Generate token`按钮来生成 token
-  ![创建 Token](https://gitee.com/gee1k/oss/raw/master/tutorials/github-token-2.png)
+  ![创建 Token](https://qiniu.svend.cc/tutorials/github-token-2.png)
 - 3.复制生成好的 Token 值到 uPic token 输入框
   **注意：此 Token 只会显示一次！请务必保存好，否则之后丢失了，就得重新创建了~ **
-  ![复制 Token](https://gitee.com/gee1k/oss/raw/master/tutorials/github-token-3.png)
+  ![复制 Token](https://qiniu.svend.cc/tutorials/github-token-3.png)
 
 ## 🌝 最终效果
 
 **保存一下，在菜单栏-图床栏选中刚刚配置好的 Github 图床，上传一张图片试试吧~**
 **上传成功后，Github 仓库就会出现你刚上传的文件啦**
-![结果](https://gitee.com/gee1k/oss/raw/master/tutorials/github-result.png)
+![结果](https://qiniu.svend.cc/tutorials/github-result.png)
 
 <hr>

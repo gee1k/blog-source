@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div><!-- i18n -->
 
-![腾讯云配置](https://gitee.com/gee1k/oss/raw/master/tutorials/tencent-host.png)
+![腾讯云配置](https://qiniu.svend.cc/tutorials/tencent-host.png)
 
 ## 📝 配置项说明
 
@@ -30,14 +30,14 @@ sidebar:
 
 **进入 [储存桶](https://console.cloud.tencent.com/cos5/bucket) 控制台，创建并进入储存桶详情页**
 
-![基本信息](https://gitee.com/gee1k/oss/raw/master/tutorials/tencent-info.png)
+![基本信息](https://qiniu.svend.cc/tutorials/tencent-info.png)
 
 `注意读写权限需要设置可公共读取，不然上传完成之后无法通过 URL 访问哦。可在存储空间的基础设置里更改权限。`
-![权限设置](https://gitee.com/gee1k/oss/raw/master/tutorials/tencent-info-2.png)
+![权限设置](https://qiniu.svend.cc/tutorials/tencent-info-2.png)
 
 ## 🔑 密钥获取(SecretId、SecretKey)
 
 **进入个人中心 [密钥管理](https://console.cloud.tencent.com/cam/capi) 查看**
-![密钥](https://gitee.com/gee1k/oss/raw/master/tutorials/tencent-ak.png)
+![密钥](https://qiniu.svend.cc/tutorials/tencent-ak.png)
 
 <hr>

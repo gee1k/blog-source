@@ -15,7 +15,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
 
-![Amazon S3 config](https://gitee.com/gee1k/oss/raw/master/tutorials/amazon_s3-host.png)
+![Amazon S3 config](https://qiniu.svend.cc/tutorials/amazon_s3-host.png)
 
 ## 📝 Options instruction
 
@@ -36,7 +36,7 @@ sidebar:
 - 1.the bucket name should not be named in a format similar to: `blog.svend.cc`, such a bucket name S3 will be assigned a link of `https://s3.ap-northeast-2.amazonaws.com/blog .svend.cc/uPic.txt`, not a subdomain. Will cause the upload to fail. It should be named in a format similar to `blog-svend-cc`, and the links assigned by S3 will be generated as subdomains: `https://blog-svend-cc.s3.ap-northeast-2.amazonaws.com /uPic.txt`
 - 2.when creating a bucket, don't check the permission settings to block all public access.
 
-![Amazon S3 console](https://gitee.com/gee1k/oss/raw/master/tutorials/amazon_s3-info.png)
+![Amazon S3 console](https://qiniu.svend.cc/tutorials/amazon_s3-info.png)
 
 ## 🔑 The Secret(AccessKey ID、Access Key Secret)
 

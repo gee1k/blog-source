@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div><!-- i18n -->
 
-![七牛配置](https://gitee.com/gee1k/oss/raw/master/tutorials/qiniu-host.png)
+![七牛配置](https://qiniu.svend.cc/tutorials/qiniu-host.png)
 
 ## 📝 配置项说明
 
@@ -29,12 +29,12 @@ sidebar:
 ## 🧰 区域、空间名称、域名信息获取
 
 **进入 [对象储存](https://portal.qiniu.com/bucket) 控制台查看**
-![七牛云控制台](https://gitee.com/gee1k/oss/raw/master/tutorials/qiniu-info.png)
+![七牛云控制台](https://qiniu.svend.cc/tutorials/qiniu-info.png)
 
 ## 🔑 密钥获取(Access Key、Secret Key)
 
 **进入个人中心 [密钥管理](https://portal.qiniu.com/user/key) 查看**
 
-![密钥](https://gitee.com/gee1k/oss/raw/master/tutorials/qiniu-ak.png)
+![密钥](https://qiniu.svend.cc/tutorials/qiniu-ak.png)
 
 <hr>

@@ -15,7 +15,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
 
-![Aliyun configuration](https://gitee.com/gee1k/oss/raw/master/tutorials/aliyun-host.png)
+![Aliyun configuration](https://qiniu.svend.cc/tutorials/aliyun-host.png)
 
 ## 📝 Options instruction
 
@@ -32,13 +32,13 @@ sidebar:
 **View it by entering  [Cloud storage](https://oss.console.aliyun.com/overview) console panel**
 
 `Pay attention here!! Your bucket permission must be set Public Read, otherwise the picture couldn't be access via uel. Configure it carefully by enter this link.`
-![Aliyun console](https://gitee.com/gee1k/oss/raw/master/tutorials/aliyun-info.png)
+![Aliyun console](https://qiniu.svend.cc/tutorials/aliyun-info.png)
 
 
 
 ## 🔑 The Secret(AccessKey ID、Access Key Secret)
 
 **View it by entering personal info  [User information management](https://usercenter.console.aliyun.com/#/manage/ak) console panel**
-![AccessKey](https://gitee.com/gee1k/oss/raw/master/tutorials/aliyun-ak.png)
+![AccessKey](https://qiniu.svend.cc/tutorials/aliyun-ak.png)
 
 <hr>

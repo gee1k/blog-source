@@ -18,7 +18,7 @@ sidebar:
 <hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
 
 
-![custom config](https://gitee.com/gee1k/oss/raw/master/tutorials/custom-host.png)
+![custom config](https://qiniu.svend.cc/tutorials/custom-host.png)
 
 ## 📝 Options instruction
 
@@ -31,7 +31,7 @@ sidebar:
 - `Domain`: After uploading, access the URL of the server file.
 - `Save Key`: The path to file storage (including folders). `Supports {year} {month} {day} {hour} {minute} {second} {since_second} {since_millisecond} {random} {filename} {.suffix} and etc. For example, the uploaded file is uPic.jpg, set to \"uPic/{filename}{.suffix}\", it will be saved as: uPic/uPic.jpg.`
 - `The after Save Key input is Suffix`: This will be used for custom picture processor. 
-  ![custom-host-extension-field](https://gitee.com/gee1k/oss/raw/master/tutorials/custom-host-extension-field.png)
+  ![custom-host-extension-field](https://qiniu.svend.cc/tutorials/custom-host-extension-field.png)
 
 <hr>
 

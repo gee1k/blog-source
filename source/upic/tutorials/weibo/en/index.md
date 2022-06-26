@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">[**🇨🇳中文**](../)  | **🇬🇧English**</div><!-- i18n -->
 
-![Weibo's config interface](https://gitee.com/gee1k/oss/raw/master/tutorials/weibo-host.png)
+![Weibo's config interface](https://qiniu.svend.cc/tutorials/weibo-host.png)
 
 ## 📝 Options instruction
 
@@ -31,7 +31,7 @@ sidebar:
 
 > This will be needed only when Cookie Mode was enabled.
 
-![Achieve Cookie](https://gitee.com/gee1k/oss/raw/master/tutorials/weibo-get-cookie.png)
+![Achieve Cookie](https://qiniu.svend.cc/tutorials/weibo-get-cookie.png)
 
 - 1.Login Weibo in your browser(Chrome recommended), open <a href="https://weibo.com/minipublish" target="_blank">minipublish page</a>. `It could be very simple to catch a request to achieve cookie in this page due to less content.`
 - 2.Open developer tool by press `command + option + i`, switch to `Network` tab.

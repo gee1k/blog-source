@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">[**🇨🇳中文**](../)  | **🇬🇧English**</div><!-- i18n -->
 
-![Upyun's config interface](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-host.png)
+![Upyun's config interface](https://qiniu.svend.cc/tutorials/upyun-host.png)
 
 ## 📝 Options instruction
 
@@ -28,10 +28,10 @@ sidebar:
 ## 🧰 Region/domain
 
 **Open [UPYUN Storage Service](https://console.upyun.com/services/file/)**
-![Upyun control panel](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-info.png)
+![Upyun control panel](https://qiniu.svend.cc/tutorials/upyun-info.png)
 
 ## 🔑 Operate User config
 
-![Operate User config](https://gitee.com/gee1k/oss/raw/master/tutorials/upyun-operator.png)
+![Operate User config](https://qiniu.svend.cc/tutorials/upyun-operator.png)
 
 <hr>
