@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
 
-![Qiniu's config interface](https://qiniu.svend.cc/tutorials/qiniu-host.png)
+![Qiniu's config interface](https://r2.svend.cc/tutorials/qiniu-host.png)
 
 ## 📝 Options instruction
 
@@ -29,12 +29,12 @@ sidebar:
 ## 🧰 Region/bucket/domain
 
 **Open [OSS](https://portal.qiniu.com/bucket) control panel**
-![Qiniu's control panel](https://qiniu.svend.cc/tutorials/qiniu-info.png)
+![Qiniu's control panel](https://r2.svend.cc/tutorials/qiniu-info.png)
 
 ## 🔑 Secret(Access Key、Secret Key)
 
 **View it by entering personal info [Secret](https://portal.qiniu.com/user/key)**
 
-![Secret](https://qiniu.svend.cc/tutorials/qiniu-ak.png)
+![Secret](https://r2.svend.cc/tutorials/qiniu-ak.png)
 
 <hr>

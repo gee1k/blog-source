@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div><!-- i18n -->
 
-![自定义图床配置](https://qiniu.svend.cc/tutorials/custom-host.png)
+![自定义图床配置](https://r2.svend.cc/tutorials/custom-host.png)
 
 ## 📝 配置项说明
 
@@ -27,7 +27,7 @@ sidebar:
 - `域名`: 上传过后，访问服务器文件的 URL。
 - `保存路径`: 文件储存的路径（包括文件夹）。 `支持 {year} {month} {day} {hour} {minute} {second} {since_second} {since_millisecond} {random} {filename} {.suffix} 等变量。比如：上传的图片为 uPic.jpg，设定为 “uPic/{filename}{.suffix}”，则会保存到 “uPic/uPic.jpg”。`
 - 在`保存路径`输入框后面的是`网址后缀`: 可以用于自定义图片处理。
-![其他字段](https://qiniu.svend.cc/tutorials/custom-host-extension-field.png)
+![其他字段](https://r2.svend.cc/tutorials/custom-host-extension-field.png)
 
 <hr>
 

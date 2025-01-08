@@ -15,7 +15,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
 
-![Gitee configuration](https://qiniu.svend.cc/tutorials/gitee-host.png)
+![Gitee configuration](https://r2.svend.cc/tutorials/gitee-host.png)
 
 ## 📝 Options instruction
 
@@ -31,17 +31,17 @@ sidebar:
 - 1.Access [Gitee Token set page](https://gitee.com/profile/personal_access_tokens/new)
 
 - 2.Select `repo` access permission,then scroll to the bottom of the page,hit `Generate token` button to get token.
-  ![generate Token](https://qiniu.svend.cc/tutorials/gitee-token-1.png)
+  ![generate Token](https://r2.svend.cc/tutorials/gitee-token-1.png)
 
 - 3.Copy the Token and paste in uPic `Token` input box
 
-  **Attention：This Token shows one time only!Keep it carefully,otherwise you need reset one~**![copy Token](https://qiniu.svend.cc/tutorials/gitee-token-2.png)
+  **Attention：This Token shows one time only!Keep it carefully,otherwise you need reset one~**![copy Token](https://r2.svend.cc/tutorials/gitee-token-2.png)
 
 ## 🌝 Bingo
 
 **Save it and select the newly configured of Gitee from menu bar-image hosting bar,try to upload a image~**
 
 **After successful upload,file/image will shows in your Gitee Repo**
-![bingo](https://qiniu.svend.cc/tutorials/gitee-result.png)
+![bingo](https://r2.svend.cc/tutorials/gitee-result.png)
 
 <hr>

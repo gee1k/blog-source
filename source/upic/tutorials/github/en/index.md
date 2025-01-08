@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">[**🇨🇳中文**](../) | **🇬🇧English**</div><!-- i18n -->
 
-![Github configuration](https://qiniu.svend.cc/tutorials/github-host.png)
+![Github configuration](https://r2.svend.cc/tutorials/github-host.png)
 
 ## 📝 Configuration item
 
@@ -33,17 +33,17 @@ sidebar:
 
 - 1.Access [Github Token set page](https://github.com/settings/tokens/new)
 - 2.Select `repo` access permission,then scroll to the bottom of the page,hit `Generate token` button to make token.
-  ![创建 Token](https://qiniu.svend.cc/tutorials/github-token-2.png)
+  ![创建 Token](https://r2.svend.cc/tutorials/github-token-2.png)
 - 3.Copy the Token to uPic
 
 **Attention：This Token shows one time only!Keep it carefully,otherwise you need reset one~**
-  ![Copy Token](https://qiniu.svend.cc/tutorials/github-token-3.png)
+  ![Copy Token](https://r2.svend.cc/tutorials/github-token-3.png)
 
 ## 🌝 Almost there!
 
 **Save and choose the image hosting you configurate before on menu bar——image hosting bar,try to upload a image~**
 **After successful upload,file/image will shows in your Github Repo**
-![result](https://qiniu.svend.cc/tutorials/github-result.png)
+![result](https://r2.svend.cc/tutorials/github-result.png)
 
 <hr>
 

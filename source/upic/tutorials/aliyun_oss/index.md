@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div><!-- i18n -->
 
-![阿里云配置](https://qiniu.svend.cc/tutorials/aliyun-host.png)
+![阿里云配置](https://r2.svend.cc/tutorials/aliyun-host.png)
 
 ## 📝 配置项说明
 
@@ -30,11 +30,11 @@ sidebar:
 
 **进入 [云存储](https://oss.console.aliyun.com/overview) 控制台查看**
 `注意读写权限需要设置可公共读取，不然上传完成之后无法通过 URL 访问哦。可在存储空间的基础设置里更改权限。`
-![阿里云控制台](https://qiniu.svend.cc/tutorials/aliyun-info.png)
+![阿里云控制台](https://r2.svend.cc/tutorials/aliyun-info.png)
 
 ## 🔑 密钥获取(AccessKey ID、Access Key Secret)
 
 **进入个人中心 [用户信息管理](https://usercenter.console.aliyun.com/#/manage/ak) 查看**
-![密钥](https://qiniu.svend.cc/tutorials/aliyun-ak.png)
+![密钥](https://r2.svend.cc/tutorials/aliyun-ak.png)
 
 <hr>

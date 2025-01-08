@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">**🇨🇳中文** | [**🇬🇧English**](./en)</div><!-- i18n -->
 
-![Amazon S3配置](https://qiniu.svend.cc/tutorials/amazon_s3-host.png)
+![Amazon S3配置](https://r2.svend.cc/tutorials/amazon_s3-host.png)
 
 ## 📝 配置项说明
 
@@ -34,7 +34,7 @@ sidebar:
 - 1.bucket 名称不要以类似：`blog.svend.cc` 的格式来命名，这样的 bucket 名称 S3 分配的链接会是`https://s3.ap-northeast-2.amazonaws.com/blog.svend.cc/uPic.txt`，而不是子域名。会导致上传失败。应当以类似：`blog-svend-cc` 的格式来命名，S3 分配的链接则会是以子域名生成：`https://blog-svend-cc.s3.ap-northeast-2.amazonaws.com/uPic.txt`
 - 2.创建 bucket 的时候权限设置不要勾选阻止所有公共访问。
 
-![Amazon S3控制台](https://qiniu.svend.cc/tutorials/amazon_s3-info.png)
+![Amazon S3控制台](https://r2.svend.cc/tutorials/amazon_s3-info.png)
 
 ## 🔑 密钥获取(AccessKey ID、Access Key Secret)
 

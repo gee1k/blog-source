@@ -31,7 +31,7 @@ sidebar:
 - `URL 路径`: 上传完成后获取图片链接的路径。`['image', 'url']`
 
 
-![基础配置](https://qiniu.svend.cc/tutorials/chevereto_host.jpg)
+![基础配置](https://r2.svend.cc/tutorials/chevereto_host.jpg)
 
 ## 扩展配置
 
@@ -42,6 +42,6 @@ sidebar:
 - `key`: 填写上面准备好的 `[API Key]`
 - `action`: `upload`
 
-![扩展配置](https://qiniu.svend.cc/tutorials/chevereto_host_extension.jpg)
+![扩展配置](https://r2.svend.cc/tutorials/chevereto_host_extension.jpg)
 
 <hr>

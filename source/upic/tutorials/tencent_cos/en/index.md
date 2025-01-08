@@ -14,7 +14,7 @@ sidebar:
 
 <hr><!-- i18n --><div align="right">[**🇨🇳中文**](../)  | **🇬🇧English**</div><!-- i18n -->
 
-![Tencent Cloud's config interface](https://qiniu.svend.cc/tutorials/tencent-host.png)
+![Tencent Cloud's config interface](https://r2.svend.cc/tutorials/tencent-host.png)
 
 ## 📝 Options instruction
 
@@ -30,14 +30,14 @@ sidebar:
 
 **Open [Bucket](https://console.cloud.tencent.com/cos5/bucket) control panel, create and configure bucket**
 
-![Base info](https://qiniu.svend.cc/tutorials/tencent-info.png)
+![Base info](https://r2.svend.cc/tutorials/tencent-info.png)
 
 `Pay attention here!! Your bucket permission must be set Public Read, otherwise the picture couldn't be access via uel. Configure it carefully by enter this link.`
-![Permission](https://qiniu.svend.cc/tutorials/tencent-info-2.png)
+![Permission](https://r2.svend.cc/tutorials/tencent-info-2.png)
 
 ## 🔑 Secret(SecretId、SecretKey)
 
 **View it by entering personal info [Secret](https://console.cloud.tencent.com/cam/capi)**
-![Secret](https://qiniu.svend.cc/tutorials/tencent-ak.png)
+![Secret](https://r2.svend.cc/tutorials/tencent-ak.png)
 
 <hr>
