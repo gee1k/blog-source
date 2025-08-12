@@ -149,9 +149,6 @@ widgets:
             #Facebook:
             #    icon: fab fa-facebook
             #    url: 'https://facebook.com'
-            Twitter:
-                icon: fab fa-twitter
-                url: 'https://twitter.com/geee1k'
             # Dribbble:
             #     icon: fab fa-dribbble
             #     url: 'https://dribbble.com'
